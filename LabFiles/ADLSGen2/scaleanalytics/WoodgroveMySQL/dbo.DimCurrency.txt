@@ -1,0 +1,105 @@
+10|THB|Baht
+1|AFA|Afghani
+86|ATS|Shilling
+35|AED|Emirati Dirham
+25|HRK|Croatian Kuna
+15|BOB|Boliviano
+43|INR|Indian Rupee
+17|BND|Brunei Dollar
+39|FRF|French Franc
+75|PKR|Pakistan Rupee
+34|SVC|El Salvador Colon
+5|AWG|Aruban Guilder
+2|DZD|Algerian Dinar
+30|DOP|Dominican Peso
+60|MUR|Mauritius Rupee
+32|GRD|Drachma
+26|CYP|Cyprus Pound
+20|GHC|Cedi
+58|MTL|Maltese Lira
+52|LVL|Latvian Lats
+14|VEB|Bolivar
+41|HKD|Hong Kong Dollar
+82|IDR|Rupiah
+78|PTE|Portuguese Escudo
+28|DKK|Danish Krone
+19|CAD|Canadian Dollar
+29|DEM|Deutsche Mark
+69|TWD|New Taiwan Dollar
+83|RUB|Russian Ruble
+21|XOF|CFA Franc BCEAO
+44|IEP|Irish Pound
+24|CRC|Costa Rican Colon
+13|BEF|Belgian Franc
+23|COP|Colombian Peso
+81|MVR|Rufiyaa
+55|ROL|Leu
+7|AZM|Azerbaijanian Manat
+9|BHD|Bahraini Dinar
+8|BSD|Bahamian Dollar
+37|FJD|Fiji Dollar
+40|PYG|Guarani
+3|ARS|Argentine Peso
+51|AOA|Kwanza
+12|BBD|Barbados Dollar
+87|SGD|Singapore Dollar
+71|BTN|Ngultrum
+48|KES|Kenyan Shilling
+66|ANG|Netherlands Antillian Guilder
+6|AUD|Australian Dollar
+11|PAB|Balboa
+27|CZK|Czech Koruna
+4|AMD|Armenian Dram
+18|BGN|Bulgarian Lev
+85|SAR|Saudi Riyal
+46|JMD|Jamaican Dollar
+56|LTL|Lithuanian Litas
+79|GTQ|Quetzal
+42|ISK|Iceland Krona
+45|ITL|Italian Lira
+77|PLZ|Polish Zloty(old)
+76|PHP|Philippine Peso
+38|HUF|Forint
+53|LBP|Lebanese Pound
+61|MXN|Mexican Peso
+103|CNY|Yuan Renminbi
+63|NGN|Naira
+65|NPR|Nepalese Rupee
+16|BRL|Brazilian Real
+64|NAD|Namibia Dollar
+80|ZAR|Rand
+93|BDT|Taka
+104|ZWD|Zimbabwe Dollar
+31|VND|Dong
+36|EUR|EURO
+50|KWD|Kuwaiti Dinar
+98|GBP|United Kingdom Pound
+105|PLN|Zloty
+62|MAD|Moroccan Dirham
+22|CLP|Chilean Peso
+59|FIM|Markka
+54|ALL|Lek
+72|NOK|Norwegian Krone
+91|SEK|Swedish Krona
+89|ESP|Spanish Peseta
+49|EEK|Kroon
+70|NZD|New Zealand Dollar
+90|LKR|Sri Lankan Rupee
+57|MYR|Malaysian Ringgit
+47|JOD|Jordanian Dinar
+102|JPY|Yen
+84|RUR|Russian Ruble(old)
+96|TND|Tunisian Dinar
+33|EGP|Egyptian Pound
+88|SKK|Slovak Koruna
+97|TRL|Turkish Lira
+94|SIT|Tolar
+74|OMR|Omani Rial
+68|ILS|New Israeli Shekel
+73|PEN|Nuevo Sol
+95|TTD|Trinidad and Tobago Dollar
+92|CHF|Swiss Franc
+100|USD|US Dollar
+67|NLG|Netherlands Guilder
+99|UYU|Uruguayan Peso
+101|KRW|Won

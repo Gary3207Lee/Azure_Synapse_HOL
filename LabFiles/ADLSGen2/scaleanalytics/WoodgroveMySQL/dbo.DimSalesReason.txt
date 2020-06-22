@@ -1,0 +1,10 @@
+10|10|Other|Other
+1|1|Price|Other
+5|5|Manufacturer|Other
+2|2|On Promotion|Promotion
+7|7|Demo Event|Marketing
+9|9|Quality|Other
+8|8|Sponsorship|Marketing
+3|3|Magazine Advertisement|Marketing
+6|6|Review|Other
+4|4|Television  Advertisement|Marketing

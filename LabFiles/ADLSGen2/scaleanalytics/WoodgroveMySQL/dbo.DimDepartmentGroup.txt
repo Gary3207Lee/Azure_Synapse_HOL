@@ -1,0 +1,7 @@
+1||Corporate
+5|1|Quality Assurance
+2|1|Executive General and Administration
+7|1|Sales and Marketing
+3|1|Inventory Management
+6|1|Research and Development
+4|1|Manufacturing

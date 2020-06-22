@@ -1,0 +1,2727 @@
+61|20020912|11449|4|Accessories|28|Bottles and Cages
+1788|20021023|15017|4|Accessories|32|Hydration Packs
+1810|20020913|19174|3|Clothing|25|Vests
+191|20021014|12765|3|Clothing|24|Tights
+112|20021008|11968|4|Accessories|34|Locks
+35|20021029|11132|3|Clothing|23|Socks
+168|20020930|12580|3|Clothing|24|Tights
+1800|20021024|15651|3|Clothing|23|Socks
+1807|20020923|21862|4|Accessories|32|Hydration Packs
+1717|20021003|28933|4|Accessories|28|Bottles and Cages
+1738|20021015|29071|4|Accessories|34|Locks
+1762|20020924|29266|4|Accessories|33|Lights
+1816|20020904|12866|3|Clothing|25|Vests
+1765|20020924|29304|3|Clothing|21|Jerseys
+1724|20021013|28976|4|Accessories|27|Bike Stands
+1858|20021009|16936|4|Accessories|34|Locks
+1794|20020901|16439|4|Accessories|32|Hydration Packs
+1827|20020927|20940|4|Accessories|32|Hydration Packs
+1720|20020914|28953|4|Accessories|37|Tires and Tubes
+1821|20020916|13232|4|Accessories|27|Bike Stands
+1780|20021004|29453|4|Accessories|29|Cleaners
+1768|20021011|29336|3|Clothing|24|Tights
+1801|20020918|16596|3|Clothing|19|Caps
+1920|20020928|25491|3|Clothing|24|Tights
+1766|20020908|29305|4|Accessories|31|Helmets
+1908|20021022|21309|4|Accessories|35|Panniers
+1806|20020905|17752|3|Clothing|24|Tights
+1973|20021024|23299|3|Clothing|18|Bib-Shorts
+1735|20020909|29066|3|Clothing|19|Caps
+1763|20020921|29290|4|Accessories|33|Lights
+1747|20020901|29124|3|Clothing|22|Shorts
+1785|20020918|22458|4|Accessories|32|Hydration Packs
+1774|20021025|29366|3|Clothing|25|Vests
+1795|20021027|14689|4|Accessories|32|Hydration Packs
+1729|20020928|29027|3|Clothing|22|Shorts
+1722|20020910|28963|4|Accessories|29|Cleaners
+1871|20020911|13945|4|Accessories|35|Panniers
+1757|20021007|29192|4|Accessories|30|Fenders
+1745|20020925|29100|4|Accessories|36|Pumps
+1949|20020921|17888|4|Accessories|34|Locks
+1734|20021004|29042|4|Accessories|31|Helmets
+1778|20021020|29446|4|Accessories|32|Hydration Packs
+1732|20020908|29041|3|Clothing|18|Bib-Shorts
+1758|20021020|29230|3|Clothing|18|Bib-Shorts
+1796|20021005|20827|4|Accessories|32|Hydration Packs
+1961|20021011|23929|3|Clothing|22|Shorts
+1787|20021008|17740|4|Accessories|32|Hydration Packs
+1749|20020902|29135|3|Clothing|20|Gloves
+1719|20021015|28942|3|Clothing|22|Shorts
+1746|20021004|29116|4|Accessories|26|Bike Racks
+1841|20021012|15994|3|Clothing|22|Shorts
+1751|20021017|29137|4|Accessories|34|Locks
+1896|20021009|24173|3|Clothing|22|Shorts
+1846|20020905|23062|4|Accessories|36|Pumps
+1743|20020930|29098|3|Clothing|22|Shorts
+1894|20020927|27116|3|Clothing|23|Socks
+1786|20020914|21058|4|Accessories|32|Hydration Packs
+1741|20021020|29092|4|Accessories|28|Bottles and Cages
+1726|20020905|29012|4|Accessories|26|Bike Racks
+1851|20020903|16536|4|Accessories|36|Pumps
+345|20020925|14213|3|Clothing|25|Vests
+1819|20021027|20883|3|Clothing|22|Shorts
+1899|20021016|12740|4|Accessories|33|Lights
+192|20021014|12765|4|Accessories|33|Lights
+169|20020907|12587|4|Accessories|33|Lights
+120|20020923|12038|3|Clothing|21|Jerseys
+298|20021023|13758|4|Accessories|30|Fenders
+1803|20020930|22511|3|Clothing|23|Socks
+1857|20020915|27570|3|Clothing|24|Tights
+1718|20021003|28933|4|Accessories|30|Fenders
+1839|20020912|18801|4|Accessories|33|Lights
+1812|20021008|13812|3|Clothing|25|Vests
+1935|20021008|18623|3|Clothing|21|Jerseys
+1913|20021029|26451|4|Accessories|36|Pumps
+1725|20021013|28976|4|Accessories|28|Bottles and Cages
+1882|20021019|12899|3|Clothing|22|Shorts
+1847|20021025|29333|4|Accessories|31|Helmets
+1835|20020909|13727|3|Clothing|24|Tights
+1770|20020921|29355|4|Accessories|31|Helmets
+1829|20021008|14254|4|Accessories|32|Hydration Packs
+1890|20020923|17816|3|Clothing|22|Shorts
+1781|20021023|29460|4|Accessories|28|Bottles and Cages
+1853|20020924|22091|4|Accessories|36|Pumps
+2205|20020928|25491|4|Accessories|36|Pumps
+1767|20020908|29305|4|Accessories|33|Lights
+1957|20021011|11238|3|Clothing|22|Shorts
+1845|20020919|12374|3|Clothing|22|Shorts
+2067|20020902|22421|4|Accessories|36|Pumps
+1771|20020904|29360|3|Clothing|21|Jerseys
+1777|20021004|29430|4|Accessories|35|Panniers
+1748|20020901|29124|4|Accessories|30|Fenders
+1799|20021003|21080|3|Clothing|19|Caps
+1775|20021025|29366|4|Accessories|30|Fenders
+1802|20021014|19295|3|Clothing|23|Socks
+1730|20020928|29027|3|Clothing|24|Tights
+1723|20020910|28963|4|Accessories|36|Pumps
+1884|20020910|28183|4|Accessories|36|Pumps
+1808|20021027|19310|3|Clothing|25|Vests
+1911|20021013|17105|3|Clothing|22|Shorts
+1967|20020929|26125|3|Clothing|22|Shorts
+1850|20020906|27145|3|Clothing|19|Caps
+1779|20021020|29446|4|Accessories|33|Lights
+1733|20020908|29041|3|Clothing|20|Gloves
+1759|20021020|29230|4|Accessories|36|Pumps
+1897|20021018|28212|4|Accessories|33|Lights
+1975|20021022|28155|3|Clothing|18|Bib-Shorts
+1878|20021011|12618|3|Clothing|23|Socks
+1750|20020902|29135|3|Clothing|25|Vests
+1782|20020908|29465|4|Accessories|33|Lights
+1824|20020904|29045|4|Accessories|33|Lights
+1942|20021020|11813|4|Accessories|35|Panniers
+1804|20021029|22484|4|Accessories|36|Pumps
+2031|20020922|22959|3|Clothing|19|Caps
+1963|20020927|18874|4|Accessories|34|Locks
+1744|20020930|29098|4|Accessories|28|Bottles and Cages
+2179|20020927|27116|3|Clothing|21|Jerseys
+1867|20021024|27069|3|Clothing|23|Socks
+1742|20021020|29092|4|Accessories|31|Helmets
+1727|20020905|29012|4|Accessories|27|Bike Stands
+1892|20020919|18800|3|Clothing|24|Tights
+346|20020925|14213|4|Accessories|34|Locks
+1868|20020925|12008|4|Accessories|36|Pumps
+2044|20020927|13956|4|Accessories|34|Locks
+271|20021015|13529|3|Clothing|24|Tights
+211|20020903|12988|4|Accessories|37|Tires and Tubes
+245|20020901|13139|4|Accessories|35|Panniers
+299|20021023|13758|4|Accessories|33|Lights
+1922|20020903|12534|3|Clothing|22|Shorts
+1864|20020915|11473|3|Clothing|19|Caps
+1869|20020909|13630|4|Accessories|34|Locks
+1886|20021009|14705|3|Clothing|19|Caps
+1866|20020929|22969|3|Clothing|22|Shorts
+1989|20021019|20515|3|Clothing|18|Bib-Shorts
+1986|20021021|13600|3|Clothing|18|Bib-Shorts
+1798|20020907|19320|4|Accessories|34|Locks
+1910|20021028|12457|3|Clothing|19|Caps
+1968|20021005|12057|3|Clothing|18|Bib-Shorts
+1900|20021003|15479|4|Accessories|31|Helmets
+1909|20020914|21488|4|Accessories|36|Pumps
+1834|20020902|22188|3|Clothing|22|Shorts
+1948|20020909|16948|3|Clothing|23|Socks
+1797|20021018|14845|4|Accessories|35|Panniers
+1916|20021004|11399|3|Clothing|24|Tights
+322|20020901|14020|3|Clothing|24|Tights
+1769|20020906|29343|3|Clothing|21|Jerseys
+2034|20021015|21586|4|Accessories|33|Lights
+1873|20021003|23410|4|Accessories|35|Panniers
+2273|20021024|23299|3|Clothing|20|Gloves
+1772|20020904|29360|3|Clothing|23|Socks
+1925|20021014|19490|3|Clothing|22|Shorts
+1932|20020908|22795|4|Accessories|33|Lights
+2000|20021005|11674|3|Clothing|18|Bib-Shorts
+1776|20021025|29366|4|Accessories|35|Panniers
+1831|20020922|22445|4|Accessories|32|Hydration Packs
+1731|20020928|29027|4|Accessories|30|Fenders
+1814|20020923|14971|3|Clothing|25|Vests
+1907|20020915|20500|4|Accessories|34|Locks
+1838|20021006|27601|3|Clothing|19|Caps
+1941|20021028|13679|3|Clothing|22|Shorts
+1978|20021002|20697|3|Clothing|18|Bib-Shorts
+1969|20020912|24498|3|Clothing|18|Bib-Shorts
+1790|20021014|12718|4|Accessories|32|Hydration Packs
+1761|20021021|29259|4|Accessories|36|Pumps
+1793|20020921|24095|4|Accessories|32|Hydration Packs
+1923|20021002|13781|4|Accessories|33|Lights
+1976|20020912|25694|3|Clothing|18|Bib-Shorts
+1988|20020925|16067|3|Clothing|18|Bib-Shorts
+1809|20021014|23958|3|Clothing|25|Vests
+1783|20020908|29465|4|Accessories|35|Panniers
+1887|20020916|17162|3|Clothing|22|Shorts
+1960|20020923|16600|4|Accessories|36|Pumps
+1876|20021005|15665|3|Clothing|21|Jerseys
+2037|20021004|19156|4|Accessories|35|Panniers
+1990|20021016|17016|3|Clothing|18|Bib-Shorts
+1789|20020925|12632|4|Accessories|32|Hydration Packs
+2258|20020903|25017|3|Clothing|20|Gloves
+1881|20021015|11779|4|Accessories|34|Locks
+1830|20020922|27398|4|Accessories|32|Hydration Packs
+1728|20020905|29012|4|Accessories|28|Bottles and Cages
+1958|20020904|11538|4|Accessories|31|Helmets
+516|20020912|15803|3|Clothing|25|Vests
+1915|20020910|13508|3|Clothing|21|Jerseys
+2046|20021003|29279|4|Accessories|31|Helmets
+288|20021028|13639|4|Accessories|36|Pumps
+241|20021021|13110|3|Clothing|25|Vests
+305|20021015|13852|4|Accessories|28|Bottles and Cages
+353|20021022|14228|3|Clothing|22|Shorts
+2016|20021006|25473|4|Accessories|31|Helmets
+1919|20020930|24551|4|Accessories|36|Pumps
+1928|20020928|25723|4|Accessories|35|Panniers
+1998|20020926|20707|3|Clothing|18|Bib-Shorts
+1874|20020917|17293|3|Clothing|21|Jerseys
+2002|20021013|21803|3|Clothing|18|Bib-Shorts
+2286|20021021|13600|3|Clothing|20|Gloves
+1849|20020926|28264|3|Clothing|22|Shorts
+1954|20020921|26738|4|Accessories|34|Locks
+1980|20021003|27073|3|Clothing|18|Bib-Shorts
+1903|20020922|11989|4|Accessories|31|Helmets
+2009|20020923|22015|3|Clothing|18|Bib-Shorts
+1848|20021014|17204|4|Accessories|33|Lights
+1970|20021010|11950|3|Clothing|18|Bib-Shorts
+1820|20021013|16424|4|Accessories|33|Lights
+1944|20021021|19056|4|Accessories|35|Panniers
+1459|20020904|26035|4|Accessories|27|Bike Stands
+1784|20021024|23899|4|Accessories|32|Hydration Packs
+2193|20021022|21309|4|Accessories|33|Lights
+1891|20020908|12356|3|Clothing|21|Jerseys
+73|20021005|11510|3|Clothing|25|Vests
+1773|20020904|29360|4|Accessories|29|Cleaners
+2052|20021001|14988|3|Clothing|22|Shorts
+1959|20021019|11973|4|Accessories|31|Helmets
+2045|20021006|11402|4|Accessories|35|Panniers
+1805|20020906|24952|4|Accessories|36|Pumps
+1856|20021001|19959|3|Clothing|24|Tights
+1889|20021024|25715|4|Accessories|35|Panniers
+1818|20020912|21357|3|Clothing|25|Vests
+1966|20021017|18828|4|Accessories|34|Locks
+1840|20020904|11778|3|Clothing|19|Caps
+1992|20020914|23844|3|Clothing|18|Bib-Shorts
+2019|20021003|19525|3|Clothing|23|Socks
+2026|20020929|14708|3|Clothing|23|Socks
+2075|20021014|12718|3|Clothing|25|Vests
+2010|20021023|13042|3|Clothing|18|Bib-Shorts
+1870|20021012|27269|3|Clothing|22|Shorts
+1924|20021015|17822|3|Clothing|23|Socks
+1981|20021014|24198|3|Clothing|18|Bib-Shorts
+2012|20021027|25452|3|Clothing|18|Bib-Shorts
+1828|20021006|24578|4|Accessories|32|Hydration Packs
+1815|20020901|18132|3|Clothing|25|Vests
+2001|20021009|11959|3|Clothing|18|Bib-Shorts
+2126|20021012|15994|3|Clothing|22|Shorts
+1921|20021026|11390|4|Accessories|35|Panniers
+2181|20021009|24173|4|Accessories|31|Helmets
+2131|20020905|23062|4|Accessories|35|Panniers
+1811|20020908|28384|3|Clothing|25|Vests
+20|20021019|11070|4|Accessories|29|Cleaners
+2030|20020905|14818|4|Accessories|36|Pumps
+1872|20020912|18604|4|Accessories|35|Panniers
+1739|20021013|29083|3|Clothing|21|Jerseys
+2028|20020917|18179|4|Accessories|35|Panniers
+1937|20020913|12782|4|Accessories|34|Locks
+1917|20020918|12256|4|Accessories|31|Helmets
+2095|20020913|19174|3|Clothing|22|Shorts
+302|20021011|13837|4|Accessories|36|Pumps
+311|20021011|13973|4|Accessories|36|Pumps
+306|20021015|13852|4|Accessories|32|Hydration Packs
+354|20021022|14228|3|Clothing|25|Vests
+2085|20021024|15651|4|Accessories|35|Panniers
+2062|20020916|22397|3|Clothing|22|Shorts
+2154|20020909|13630|3|Clothing|22|Shorts
+2025|20020922|16132|4|Accessories|36|Pumps
+1926|20021019|11555|4|Accessories|34|Locks
+2042|20021001|22737|3|Clothing|24|Tights
+1160|20020903|22582|3|Clothing|18|Bib-Shorts
+1852|20020918|22003|4|Accessories|36|Pumps
+2060|20021027|29384|3|Clothing|22|Shorts
+2079|20020901|16439|3|Clothing|25|Vests
+1965|20020908|12594|4|Accessories|36|Pumps
+2021|20021001|15303|4|Accessories|36|Pumps
+1880|20021029|25062|3|Clothing|24|Tights
+2175|20020923|17816|3|Clothing|21|Jerseys
+1826|20020901|12873|4|Accessories|32|Hydration Packs
+1964|20021017|16248|3|Clothing|23|Socks
+1460|20020904|26035|4|Accessories|29|Cleaners
+1813|20020924|21522|3|Clothing|25|Vests
+2242|20021011|11238|4|Accessories|33|Lights
+1929|20021026|17957|3|Clothing|24|Tights
+104|20021004|11913|4|Accessories|27|Bike Stands
+1823|20020909|26947|4|Accessories|27|Bike Stands
+92|20021021|11749|4|Accessories|33|Lights
+1993|20020917|23649|3|Clothing|18|Bib-Shorts
+2061|20020908|16577|4|Accessories|31|Helmets
+1833|20021009|20962|4|Accessories|32|Hydration Packs
+1901|20020913|19994|4|Accessories|36|Pumps
+1952|20021020|12515|4|Accessories|34|Locks
+2099|20020923|14971|4|Accessories|33|Lights
+2047|20021020|19466|4|Accessories|34|Locks
+1905|20021016|28514|3|Clothing|19|Caps
+2003|20021021|14868|3|Clothing|18|Bib-Shorts
+2040|20021016|27739|4|Accessories|34|Locks
+2041|20021001|29056|4|Accessories|34|Locks
+2265|20021007|11334|3|Clothing|20|Gloves
+2039|20021017|27488|4|Accessories|35|Panniers
+2011|20020914|15109|3|Clothing|18|Bib-Shorts
+1939|20021019|11141|3|Clothing|22|Shorts
+1997|20020923|12891|3|Clothing|18|Bib-Shorts
+2029|20020927|25143|4|Accessories|34|Locks
+1865|20020913|14350|4|Accessories|35|Panniers
+1822|20021027|19016|3|Clothing|24|Tights
+2109|20020904|29045|4|Accessories|34|Locks
+2227|20021020|11813|4|Accessories|34|Locks
+1947|20020910|12055|4|Accessories|31|Helmets
+131|20020907|12226|4|Accessories|28|Bottles and Cages
+2248|20020927|18874|3|Clothing|24|Tights
+1898|20021006|28734|4|Accessories|33|Lights
+21|20021019|11070|4|Accessories|31|Helmets
+2071|20020914|21058|4|Accessories|31|Helmets
+1946|20020912|19833|4|Accessories|33|Lights
+1740|20021013|29083|4|Accessories|30|Fenders
+2136|20020903|16536|3|Clothing|19|Caps
+1987|20020930|21070|3|Clothing|18|Bib-Shorts
+2023|20021019|25607|3|Clothing|24|Tights
+2184|20021016|12740|3|Clothing|19|Caps
+343|20021011|14209|3|Clothing|24|Tights
+391|20020919|14700|3|Clothing|21|Jerseys
+372|20020925|14496|4|Accessories|31|Helmets
+393|20020930|14723|4|Accessories|28|Bottles and Cages
+2088|20020930|22511|3|Clothing|19|Caps
+2092|20020923|21862|3|Clothing|21|Jerseys
+2213|20020928|25723|3|Clothing|21|Jerseys
+2057|20020916|14188|4|Accessories|33|Lights
+1931|20020929|19252|3|Clothing|24|Tights
+2059|20021012|20467|3|Clothing|22|Shorts
+1216|20021019|23103|3|Clothing|25|Vests
+1906|20021029|28402|4|Accessories|34|Locks
+2143|20021009|16936|3|Clothing|22|Shorts
+2132|20021025|29333|4|Accessories|34|Locks
+1995|20020926|25849|3|Clothing|18|Bib-Shorts
+2194|20020914|21488|3|Clothing|22|Shorts
+1933|20021023|28380|4|Accessories|36|Pumps
+2233|20020909|16948|3|Clothing|21|Jerseys
+1836|20021008|15163|4|Accessories|35|Panniers
+2086|20020918|16596|3|Clothing|21|Jerseys
+1594|20021010|27519|4|Accessories|33|Lights
+1854|20021002|18647|3|Clothing|19|Caps
+93|20020923|11753|3|Clothing|22|Shorts
+1936|20021013|12221|4|Accessories|36|Pumps
+125|20020920|12129|4|Accessories|28|Bottles and Cages
+1888|20021011|11707|3|Clothing|23|Socks
+182|20020912|12697|3|Clothing|19|Caps
+2014|20020906|13089|3|Clothing|18|Bib-Shorts
+2070|20020918|22458|4|Accessories|33|Lights
+1860|20021003|23948|3|Clothing|21|Jerseys
+2080|20021027|14689|3|Clothing|25|Vests
+1985|20020902|25833|3|Clothing|18|Bib-Shorts
+2103|20020912|21357|4|Accessories|33|Lights
+2063|20020922|15270|3|Clothing|19|Caps
+1945|20020927|13180|3|Clothing|22|Shorts
+2196|20021013|17105|4|Accessories|35|Panniers
+2055|20021001|11735|3|Clothing|23|Socks
+2051|20021024|18210|3|Clothing|19|Caps
+19|20021010|11057|4|Accessories|36|Pumps
+2064|20020902|20497|3|Clothing|24|Tights
+2036|20020908|12627|3|Clothing|19|Caps
+1940|20021015|26369|3|Clothing|21|Jerseys
+2246|20021011|23929|3|Clothing|23|Socks
+2072|20021008|17740|3|Clothing|25|Vests
+1938|20020905|27699|4|Accessories|34|Locks
+1832|20021019|11406|4|Accessories|32|Hydration Packs
+2172|20020916|17162|3|Clothing|21|Jerseys
+2245|20020923|16600|3|Clothing|24|Tights
+1953|20020913|20915|4|Accessories|35|Panniers
+151|20021015|12359|4|Accessories|26|Bike Racks
+2290|20021016|17016|3|Clothing|20|Gloves
+1927|20020930|25513|3|Clothing|21|Jerseys
+98|20021004|11875|3|Clothing|22|Shorts
+2152|20021024|27069|3|Clothing|19|Caps
+2058|20020916|13875|4|Accessories|34|Locks
+1825|20021025|23436|4|Accessories|32|Hydration Packs
+2177|20020919|18800|4|Accessories|36|Pumps
+1994|20021001|15638|3|Clothing|18|Bib-Shorts
+2035|20021006|15305|3|Clothing|24|Tights
+42|20020904|11287|3|Clothing|24|Tights
+1752|20020904|29176|3|Clothing|21|Jerseys
+392|20020919|14700|4|Accessories|31|Helmets
+406|20020907|14982|3|Clothing|24|Tights
+496|20021014|15692|4|Accessories|29|Cleaners
+2207|20020903|12534|4|Accessories|34|Locks
+2142|20020915|27570|3|Clothing|23|Socks
+1176|20021023|22846|3|Clothing|18|Bib-Shorts
+2124|20020912|18801|4|Accessories|31|Helmets
+1999|20021015|23340|3|Clothing|18|Bib-Shorts
+2101|20020904|12866|4|Accessories|34|Locks
+1421|20020914|25328|3|Clothing|24|Tights
+2053|20021003|29454|3|Clothing|24|Tights
+2167|20021019|12899|3|Clothing|24|Tights
+2253|20021005|12057|3|Clothing|20|Gloves
+2018|20021023|21936|4|Accessories|36|Pumps
+1273|20021007|23644|4|Accessories|32|Hydration Packs
+2004|20020917|18325|3|Clothing|18|Bib-Shorts
+2255|20021010|11950|3|Clothing|20|Gloves
+1875|20020906|18013|4|Accessories|31|Helmets
+2138|20020924|22091|3|Clothing|19|Caps
+1596|20020922|27584|4|Accessories|26|Bike Racks
+1971|20020909|12949|3|Clothing|18|Bib-Shorts
+94|20020923|11753|4|Accessories|35|Panniers
+1972|20021020|18081|3|Clothing|18|Bib-Shorts
+355|20020926|14229|4|Accessories|27|Bike Stands
+1895|20021022|23589|3|Clothing|24|Tights
+183|20020912|12697|4|Accessories|37|Tires and Tubes
+2217|20020908|22795|3|Clothing|24|Tights
+2084|20021003|21080|4|Accessories|34|Locks
+1861|20020904|25689|3|Clothing|22|Shorts
+2087|20021014|19295|4|Accessories|36|Pumps
+2043|20021013|11081|3|Clothing|24|Tights
+159|20021004|12491|3|Clothing|23|Socks
+2156|20020911|13945|4|Accessories|31|Helmets
+1982|20021016|13838|3|Clothing|18|Bib-Shorts
+2226|20021028|13679|3|Clothing|23|Socks
+2066|20021028|13763|3|Clothing|24|Tights
+2135|20020906|27145|3|Clothing|24|Tights
+37|20021012|11150|3|Clothing|21|Jerseys
+181|20021022|12687|4|Accessories|34|Locks
+2038|20021005|23735|4|Accessories|33|Lights
+1950|20021018|24960|4|Accessories|36|Pumps
+2271|20020914|27565|3|Clothing|20|Gloves
+2163|20021011|12618|3|Clothing|19|Caps
+1991|20020909|15677|3|Clothing|18|Bib-Shorts
+1879|20020916|19093|4|Accessories|35|Panniers
+2260|20021002|21378|3|Clothing|20|Gloves
+36|20020922|11142|3|Clothing|19|Caps
+2024|20021004|19179|3|Clothing|21|Jerseys
+152|20021015|12359|4|Accessories|30|Fenders
+23|20020915|11079|3|Clothing|21|Jerseys
+1956|20020918|28094|4|Accessories|36|Pumps
+99|20021004|11875|3|Clothing|24|Tights
+2166|20021015|11779|3|Clothing|24|Tights
+2115|20020922|27398|4|Accessories|36|Pumps
+1912|20021008|22305|4|Accessories|35|Panniers
+2243|20020904|11538|4|Accessories|35|Panniers
+2008|20020907|21628|3|Clothing|18|Bib-Shorts
+2073|20021023|15017|3|Clothing|25|Vests
+43|20020904|11287|4|Accessories|33|Lights
+1753|20020904|29176|3|Clothing|22|Shorts
+1721|20020907|28956|4|Accessories|34|Locks
+407|20020907|14982|4|Accessories|33|Lights
+1837|20021007|23485|4|Accessories|33|Lights
+1365|20020924|24781|3|Clothing|25|Vests
+2149|20020915|11473|4|Accessories|34|Locks
+1177|20021023|22846|4|Accessories|26|Bike Racks
+2171|20021009|14705|3|Clothing|23|Socks
+2022|20020909|13146|3|Clothing|19|Caps
+2220|20021008|18623|4|Accessories|34|Locks
+1422|20020914|25328|4|Accessories|36|Pumps
+2083|20020907|19320|4|Accessories|28|Bottles and Cages
+2195|20021028|12457|3|Clothing|24|Tights
+2264|20020923|16614|3|Clothing|20|Gloves
+2065|20021026|18935|4|Accessories|35|Panniers
+1274|20021007|23644|4|Accessories|34|Locks
+2048|20020906|14879|3|Clothing|21|Jerseys
+55|20021025|11364|3|Clothing|24|Tights
+2005|20020906|11965|3|Clothing|18|Bib-Shorts
+2201|20021004|11399|4|Accessories|35|Panniers
+1621|20021022|27941|3|Clothing|23|Socks
+2007|20021003|14594|3|Clothing|18|Bib-Shorts
+162|20021019|12496|4|Accessories|26|Bike Racks
+2091|20020905|17752|3|Clothing|22|Shorts
+356|20020926|14229|4|Accessories|32|Hydration Packs
+1996|20020924|20624|3|Clothing|18|Bib-Shorts
+275|20020907|13543|3|Clothing|19|Caps
+2244|20021019|11973|4|Accessories|34|Locks
+2300|20021005|11674|3|Clothing|20|Gloves
+1883|20020930|11766|3|Clothing|24|Tights
+2116|20020922|22445|4|Accessories|34|Locks
+2050|20021004|26407|3|Clothing|19|Caps
+160|20021004|12491|4|Accessories|32|Hydration Packs
+2169|20020910|28183|3|Clothing|22|Shorts
+2093|20021027|19310|4|Accessories|36|Pumps
+2292|20020914|23844|3|Clothing|20|Gloves
+2234|20020921|17888|3|Clothing|22|Shorts
+2254|20020912|24498|3|Clothing|20|Gloves
+38|20021012|11150|4|Accessories|31|Helmets
+287|20021022|13632|3|Clothing|19|Caps
+2078|20020921|24095|3|Clothing|25|Vests
+1955|20021002|12068|4|Accessories|31|Helmets
+2275|20021022|28155|3|Clothing|20|Gloves
+2288|20020925|16067|3|Clothing|20|Gloves
+2094|20021014|23958|3|Clothing|24|Tights
+1918|20020924|16312|3|Clothing|19|Caps
+2263|20020919|21741|3|Clothing|20|Gloves
+87|20021005|11651|3|Clothing|21|Jerseys
+2089|20021029|22484|3|Clothing|24|Tights
+153|20021015|12359|4|Accessories|33|Lights
+24|20020915|11079|4|Accessories|27|Bike Stands
+1962|20020918|24365|4|Accessories|31|Helmets
+215|20021001|13006|3|Clothing|22|Shorts
+8|20020911|11033|3|Clothing|21|Jerseys
+2157|20020912|18604|4|Accessories|34|Locks
+1934|20020930|22449|4|Accessories|36|Pumps
+28|20020925|11111|3|Clothing|20|Gloves
+2222|20020913|12782|4|Accessories|31|Helmets
+2104|20021027|20883|4|Accessories|27|Bike Stands
+57|20021003|11413|3|Clothing|25|Vests
+1754|20020904|29176|4|Accessories|34|Locks
+1736|20020924|29068|4|Accessories|28|Bottles and Cages
+408|20020907|14982|4|Accessories|37|Tires and Tubes
+1843|20020905|28787|4|Accessories|36|Pumps
+1366|20020924|24781|4|Accessories|28|Bottles and Cages
+1242|20021018|23378|3|Clothing|25|Vests
+1230|20020921|23314|4|Accessories|33|Lights
+2298|20020926|20707|3|Clothing|20|Gloves
+2032|20021022|25182|4|Accessories|33|Lights
+2289|20021019|20515|3|Clothing|20|Gloves
+1442|20021028|25711|4|Accessories|27|Bike Stands
+2134|20020926|28264|3|Clothing|19|Caps
+2239|20020921|26738|3|Clothing|22|Shorts
+2280|20021003|27073|3|Clothing|20|Gloves
+2112|20020927|20940|3|Clothing|22|Shorts
+1278|20021021|23655|3|Clothing|21|Jerseys
+2106|20020916|13232|3|Clothing|22|Shorts
+105|20021009|11917|3|Clothing|23|Socks
+2082|20021018|14845|3|Clothing|23|Socks
+2249|20021017|16248|4|Accessories|31|Helmets
+2503|20020912|15653|3|Clothing|22|Shorts
+2068|20021024|23983|4|Accessories|36|Pumps
+163|20021019|12496|4|Accessories|33|Lights
+2130|20020919|12374|3|Clothing|24|Tights
+503|20020925|15758|4|Accessories|30|Fenders
+2006|20020913|23102|3|Clothing|18|Bib-Shorts
+276|20020907|13543|3|Clothing|23|Socks
+2293|20020917|23649|3|Clothing|20|Gloves
+307|20020905|13918|3|Clothing|19|Caps
+1893|20021012|22589|4|Accessories|35|Panniers
+2141|20021001|19959|4|Accessories|35|Panniers
+2237|20021020|12515|4|Accessories|31|Helmets
+161|20021004|12491|4|Accessories|33|Lights
+2192|20020915|20500|3|Clothing|22|Shorts
+2123|20021006|27601|3|Clothing|23|Socks
+2303|20021021|14868|3|Clothing|20|Gloves
+2252|20020929|26125|3|Clothing|19|Caps
+16|20021028|11048|4|Accessories|32|Hydration Packs
+221|20020901|13011|3|Clothing|21|Jerseys
+310|20020927|13966|3|Clothing|22|Shorts
+2155|20021012|27269|3|Clothing|23|Socks
+1979|20020906|24339|3|Clothing|18|Bib-Shorts
+2276|20020912|25694|3|Clothing|20|Gloves
+122|20021020|12089|3|Clothing|24|Tights
+2113|20021006|24578|4|Accessories|33|Lights
+1984|20021018|15150|3|Clothing|18|Bib-Shorts
+2268|20020924|24035|3|Clothing|20|Gloves
+115|20021010|11991|3|Clothing|18|Bib-Shorts
+2161|20021005|15665|3|Clothing|22|Shorts
+206|20020901|12939|4|Accessories|26|Bike Racks
+25|20020915|11079|4|Accessories|37|Tires and Tubes
+1977|20021012|21521|3|Clothing|18|Bib-Shorts
+216|20021001|13006|4|Accessories|27|Bike Stands
+9|20020911|11033|3|Clothing|23|Socks
+2262|20020907|19821|3|Clothing|20|Gloves
+1943|20021019|17254|4|Accessories|36|Pumps
+29|20020925|11111|4|Accessories|30|Fenders
+2287|20020930|21070|3|Clothing|20|Gloves
+2153|20020925|12008|3|Clothing|22|Shorts
+58|20021003|11413|4|Accessories|37|Tires and Tubes
+1764|20020908|29303|4|Accessories|32|Hydration Packs
+1737|20020924|29068|4|Accessories|34|Locks
+434|20020906|15153|3|Clothing|18|Bib-Shorts
+1855|20020929|19204|4|Accessories|33|Lights
+1436|20020930|25546|3|Clothing|23|Socks
+1283|20020914|23708|4|Accessories|27|Bike Stands
+1276|20020904|23651|3|Clothing|21|Jerseys
+1227|20021013|23247|4|Accessories|27|Bike Stands
+2054|20021002|20125|4|Accessories|35|Panniers
+2302|20021013|21803|3|Clothing|20|Gloves
+1443|20021028|25711|4|Accessories|33|Lights
+2137|20020918|22003|4|Accessories|31|Helmets
+1168|20021005|22624|4|Accessories|26|Bike Racks
+1161|20021027|22603|3|Clothing|22|Shorts
+2120|20020909|13727|4|Accessories|36|Pumps
+1279|20021021|23655|4|Accessories|29|Cleaners
+2114|20021008|14254|3|Clothing|24|Tights
+136|20020923|12306|4|Accessories|29|Cleaners
+2105|20021013|16424|3|Clothing|22|Shorts
+144|20021007|12344|3|Clothing|24|Tights
+2506|20021019|13061|4|Accessories|36|Pumps
+2069|20021024|23899|3|Clothing|21|Jerseys
+210|20021028|12987|3|Clothing|20|Gloves
+2158|20021003|23410|4|Accessories|33|Lights
+1520|20020905|26730|3|Clothing|24|Tights
+2027|20020906|19474|3|Clothing|23|Socks
+277|20020907|13543|4|Accessories|33|Lights
+132|20021022|12243|4|Accessories|34|Locks
+308|20020905|13918|3|Clothing|21|Jerseys
+1902|20021002|15425|3|Clothing|21|Jerseys
+2186|20020913|19994|3|Clothing|24|Tights
+2285|20020902|25833|3|Clothing|20|Gloves
+230|20020918|13037|3|Clothing|25|Vests
+2251|20021017|18828|4|Accessories|33|Lights
+2125|20020904|11778|4|Accessories|36|Pumps
+117|20020927|11995|3|Clothing|24|Tights
+2278|20021002|20697|3|Clothing|20|Gloves
+17|20021028|11048|4|Accessories|36|Pumps
+222|20020901|13011|3|Clothing|23|Socks
+369|20020928|14332|4|Accessories|33|Lights
+156|20020919|12396|4|Accessories|30|Fenders
+2049|20020924|11903|3|Clothing|22|Shorts
+2281|20021014|24198|3|Clothing|20|Gloves
+137|20021028|12317|3|Clothing|21|Jerseys
+2150|20020913|14350|4|Accessories|33|Lights
+2020|20020912|20569|4|Accessories|35|Panniers
+2270|20021026|11872|3|Clothing|20|Gloves
+116|20021010|11991|4|Accessories|36|Pumps
+2206|20021026|11390|3|Clothing|19|Caps
+484|20021006|15614|3|Clothing|19|Caps
+56|20021002|11387|4|Accessories|31|Helmets
+2074|20020925|12632|3|Clothing|25|Vests
+217|20021001|13006|4|Accessories|30|Fenders
+10|20020911|11033|3|Clothing|24|Tights
+85|20020902|11647|4|Accessories|32|Hydration Packs
+2110|20021025|23436|3|Clothing|24|Tights
+30|20020925|11111|4|Accessories|32|Hydration Packs
+2294|20021001|15638|3|Clothing|20|Gloves
+2200|20020910|13508|3|Clothing|23|Socks
+253|20021027|13239|3|Clothing|20|Gloves
+1842|20021018|11241|3|Clothing|21|Jerseys
+1792|20021026|13773|4|Accessories|32|Hydration Packs
+435|20020906|15153|3|Clothing|22|Shorts
+1862|20020926|22897|4|Accessories|31|Helmets
+1472|20020917|26188|3|Clothing|19|Caps
+1316|20021029|24246|4|Accessories|30|Fenders
+1277|20020904|23651|4|Accessories|36|Pumps
+1590|20021003|27500|3|Clothing|18|Bib-Shorts
+2097|20021008|13812|3|Clothing|19|Caps
+1332|20020901|24384|4|Accessories|29|Cleaners
+1457|20020914|25995|4|Accessories|27|Bike Stands
+2191|20021029|28402|4|Accessories|33|Lights
+1192|20021016|22957|3|Clothing|24|Tights
+1162|20021027|22603|3|Clothing|25|Vests
+2185|20021003|15479|3|Clothing|19|Caps
+1280|20021021|23655|4|Accessories|32|Hydration Packs
+2119|20020902|22188|4|Accessories|33|Lights
+208|20020913|12959|4|Accessories|29|Cleaners
+2111|20020901|12873|3|Clothing|24|Tights
+274|20021006|13541|4|Accessories|26|Bike Racks
+2703|20020912|15653|3|Clothing|20|Gloves
+2098|20020924|21522|4|Accessories|35|Panniers
+323|20020921|14050|4|Accessories|35|Panniers
+2176|20020908|12356|4|Accessories|36|Pumps
+1521|20020905|26730|3|Clothing|25|Vests
+2108|20020909|26947|3|Clothing|19|Caps
+366|20020901|14316|3|Clothing|18|Bib-Shorts
+149|20021020|12354|4|Accessories|27|Bike Stands
+309|20020905|13918|3|Clothing|25|Vests
+1951|20020907|14987|3|Clothing|19|Caps
+2272|20020903|19662|3|Clothing|20|Gloves
+13|20020912|11047|3|Clothing|22|Shorts
+231|20020918|13037|4|Accessories|32|Hydration Packs
+79|20020913|11613|3|Clothing|25|Vests
+2190|20021016|28514|4|Accessories|34|Locks
+224|20020927|13021|3|Clothing|22|Shorts
+80|20021021|11618|4|Accessories|36|Pumps
+171|20021012|12617|3|Clothing|22|Shorts
+403|20020916|14964|3|Clothing|21|Jerseys
+396|20020911|14812|4|Accessories|30|Fenders
+173|20021013|12619|3|Clothing|21|Jerseys
+2182|20021018|28212|4|Accessories|36|Pumps
+2297|20020923|12891|3|Clothing|20|Gloves
+138|20021028|12317|4|Accessories|26|Bike Racks
+2223|20020905|27699|4|Accessories|33|Lights
+2033|20020927|15827|3|Clothing|21|Jerseys
+2301|20021009|11959|3|Clothing|20|Gloves
+294|20020918|13719|3|Clothing|22|Shorts
+2232|20020910|12055|4|Accessories|35|Panniers
+517|20021001|15815|4|Accessories|31|Helmets
+252|20020901|13217|4|Accessories|28|Bottles and Cages
+2096|20020908|28384|3|Clothing|23|Socks
+259|20020925|13345|4|Accessories|26|Bike Racks
+154|20020920|12363|4|Accessories|35|Panniers
+86|20020902|11647|4|Accessories|33|Lights
+2197|20021008|22305|4|Accessories|34|Locks
+31|20021029|11123|4|Accessories|31|Helmets
+1155|20020901|22503|3|Clothing|21|Jerseys
+2202|20020918|12256|3|Clothing|24|Tights
+254|20021027|13239|3|Clothing|21|Jerseys
+1904|20020915|27715|4|Accessories|31|Helmets
+1859|20020928|20919|3|Clothing|24|Tights
+436|20020906|15153|4|Accessories|26|Bike Racks
+1863|20021023|19334|4|Accessories|33|Lights
+1477|20020911|26245|3|Clothing|24|Tights
+1383|20021026|24923|4|Accessories|35|Panniers
+1482|20021014|26386|4|Accessories|29|Cleaners
+1591|20021003|27500|3|Clothing|23|Socks
+2159|20020917|17293|4|Accessories|31|Helmets
+1542|20021023|26953|3|Clothing|20|Gloves
+1458|20020914|25995|4|Accessories|31|Helmets
+2269|20020902|20767|3|Clothing|20|Gloves
+1304|20020928|24005|4|Accessories|26|Bike Racks
+1202|20021009|23084|4|Accessories|27|Bike Stands
+2250|20020908|12594|3|Clothing|23|Socks
+1281|20021021|23655|4|Accessories|36|Pumps
+2133|20021014|17204|3|Clothing|21|Jerseys
+209|20020913|12959|4|Accessories|35|Panniers
+2121|20021008|15163|4|Accessories|36|Pumps
+1149|20021001|22400|3|Clothing|21|Jerseys
+2706|20021019|13061|3|Clothing|25|Vests
+2139|20021002|18647|3|Clothing|22|Shorts
+348|20021021|14216|4|Accessories|35|Panniers
+2214|20021026|17957|3|Clothing|21|Jerseys
+1522|20020905|26730|4|Accessories|27|Bike Stands
+2173|20021011|11707|4|Accessories|36|Pumps
+371|20020927|14370|4|Accessories|37|Tires and Tubes
+177|20020918|12675|4|Accessories|35|Panniers
+424|20021002|15044|4|Accessories|37|Tires and Tubes
+1974|20021025|11508|3|Clothing|18|Bib-Shorts
+75|20020903|11523|3|Clothing|19|Caps
+14|20020912|11047|3|Clothing|23|Socks
+319|20021028|14014|4|Accessories|30|Fenders
+90|20021006|11719|4|Accessories|26|Bike Racks
+2230|20020927|13180|4|Accessories|35|Panniers
+256|20021018|13249|3|Clothing|25|Vests
+88|20020914|11711|3|Clothing|22|Shorts
+172|20021012|12617|4|Accessories|34|Locks
+404|20020916|14964|3|Clothing|22|Shorts
+505|20020927|15767|3|Clothing|22|Shorts
+174|20021013|12619|3|Clothing|22|Shorts
+2208|20021002|13781|3|Clothing|21|Jerseys
+39|20020905|11223|4|Accessories|35|Panniers
+139|20021028|12317|4|Accessories|37|Tires and Tubes
+2291|20020909|15677|3|Clothing|20|Gloves
+2100|20020901|18132|4|Accessories|36|Pumps
+110|20021012|11963|4|Accessories|30|Fenders
+409|20021008|14990|3|Clothing|24|Tights
+4|20021026|11017|3|Clothing|22|Shorts
+524|20021024|16021|3|Clothing|21|Jerseys
+285|20021021|13620|3|Clothing|23|Socks
+2183|20021006|28734|4|Accessories|36|Pumps
+282|20021026|13588|4|Accessories|37|Tires and Tubes
+155|20020920|12363|4|Accessories|36|Pumps
+170|20021005|12588|4|Accessories|34|Locks
+2219|20020930|22449|4|Accessories|33|Lights
+32|20021029|11123|4|Accessories|33|Lights
+1156|20020901|22503|4|Accessories|34|Locks
+62|20021011|11464|4|Accessories|27|Bike Stands
+255|20021027|13239|4|Accessories|31|Helmets
+1914|20021021|25207|3|Clothing|22|Shorts
+2015|20020910|28529|4|Accessories|35|Panniers
+437|20020906|15153|4|Accessories|36|Pumps
+1877|20020919|24693|3|Clothing|23|Socks
+1639|20020916|28138|4|Accessories|26|Bike Racks
+1616|20021019|27890|3|Clothing|25|Vests
+1538|20021001|26912|4|Accessories|30|Fenders
+1649|20021021|28215|3|Clothing|23|Socks
+2211|20021019|11555|4|Accessories|36|Pumps
+1543|20021023|26953|4|Accessories|35|Panniers
+1498|20021008|26500|3|Clothing|20|Gloves
+1339|20021006|24483|3|Clothing|23|Socks
+1415|20020928|25245|4|Accessories|35|Panniers
+1203|20021009|23084|4|Accessories|30|Fenders
+2295|20020926|25849|3|Clothing|20|Gloves
+1322|20021014|24300|3|Clothing|23|Socks
+2165|20021029|25062|3|Clothing|23|Socks
+244|20021015|13138|4|Accessories|37|Tires and Tubes
+2160|20020906|18013|3|Clothing|19|Caps
+1213|20020928|23101|3|Clothing|23|Socks
+589|20021029|16636|4|Accessories|29|Cleaners
+2256|20020909|12949|3|Clothing|20|Gloves
+461|20021018|15340|3|Clothing|19|Caps
+2221|20021013|12221|3|Clothing|19|Caps
+1554|20021001|27101|3|Clothing|18|Bib-Shorts
+2180|20021022|23589|3|Clothing|19|Caps
+463|20020903|15434|3|Clothing|19|Caps
+178|20020918|12675|4|Accessories|37|Tires and Tubes
+472|20021021|15488|3|Clothing|23|Socks
+2056|20020913|15887|4|Accessories|35|Panniers
+76|20020903|11523|3|Clothing|25|Vests
+15|20020912|11047|4|Accessories|30|Fenders
+383|20020925|14667|3|Clothing|22|Shorts
+91|20021006|11719|4|Accessories|34|Locks
+2266|20020919|15041|3|Clothing|20|Gloves
+331|20020912|14108|4|Accessories|28|Bottles and Cages
+89|20020914|11711|4|Accessories|32|Hydration Packs
+267|20021020|13521|4|Accessories|27|Bike Stands
+405|20020916|14964|3|Clothing|25|Vests
+506|20020927|15767|3|Clothing|23|Socks
+175|20021013|12619|4|Accessories|33|Lights
+2209|20021015|17822|4|Accessories|31|Helmets
+53|20020905|11358|4|Accessories|27|Bike Stands
+145|20021023|12350|3|Clothing|22|Shorts
+48|20021019|11331|3|Clothing|20|Gloves
+2107|20021027|19016|4|Accessories|33|Lights
+111|20021012|11963|4|Accessories|36|Pumps
+410|20021008|14990|4|Accessories|29|Cleaners
+5|20021026|11017|4|Accessories|28|Bottles and Cages
+553|20021018|16346|3|Clothing|22|Shorts
+367|20021024|14322|3|Clothing|19|Caps
+2212|20020930|25513|4|Accessories|35|Panniers
+395|20020918|14811|3|Clothing|18|Bib-Shorts
+329|20021006|14091|4|Accessories|27|Bike Stands
+188|20021006|12760|3|Clothing|24|Tights
+2228|20021019|17254|4|Accessories|34|Locks
+33|20021029|11123|4|Accessories|37|Tires and Tubes
+1513|20021022|26665|4|Accessories|28|Bottles and Cages
+119|20021010|12002|3|Clothing|25|Vests
+475|20021016|15576|3|Clothing|24|Tights
+1930|20020919|14942|4|Accessories|33|Lights
+2077|20021026|13773|3|Clothing|25|Vests
+502|20021021|15757|3|Clothing|18|Bib-Shorts
+1885|20021027|21234|4|Accessories|34|Locks
+1640|20020916|28138|4|Accessories|33|Lights
+1617|20021019|27890|4|Accessories|31|Helmets
+1539|20021001|26912|4|Accessories|31|Helmets
+1650|20021021|28215|3|Clothing|25|Vests
+2216|20020929|19252|4|Accessories|34|Locks
+1581|20020924|27413|3|Clothing|22|Shorts
+1558|20021027|27119|4|Accessories|31|Helmets
+1552|20021022|27100|3|Clothing|22|Shorts
+1450|20021003|25826|4|Accessories|30|Fenders
+1204|20021009|23084|4|Accessories|37|Tires and Tubes
+1208|20020915|23097|3|Clothing|21|Jerseys
+1323|20021014|24300|4|Accessories|27|Bike Stands
+11|20020904|11037|4|Accessories|31|Helmets
+336|20020913|14134|4|Accessories|33|Lights
+2261|20021023|29049|3|Clothing|20|Gloves
+1214|20020928|23101|3|Clothing|24|Tights
+590|20021029|16636|4|Accessories|31|Helmets
+242|20020926|13114|3|Clothing|25|Vests
+481|20021005|15597|3|Clothing|23|Socks
+2257|20021020|18081|3|Clothing|20|Gloves
+1625|20021008|28034|3|Clothing|25|Vests
+2296|20020924|20624|3|Clothing|20|Gloves
+464|20020903|15434|3|Clothing|25|Vests
+246|20021012|13143|3|Clothing|25|Vests
+1205|20021013|23086|3|Clothing|24|Tights
+2090|20020906|24952|3|Clothing|24|Tights
+283|20021012|13597|4|Accessories|34|Locks
+184|20020912|12714|4|Accessories|29|Cleaners
+384|20020925|14667|4|Accessories|33|Lights
+113|20021018|11986|4|Accessories|34|Locks
+2282|20021016|13838|3|Clothing|20|Gloves
+332|20020912|14108|4|Accessories|30|Fenders
+133|20021023|12248|3|Clothing|22|Shorts
+357|20021001|14264|3|Clothing|20|Gloves
+428|20021001|15124|3|Clothing|20|Gloves
+507|20020927|15767|4|Accessories|30|Fenders
+338|20020911|14146|3|Clothing|18|Bib-Shorts
+2224|20021019|11141|3|Clothing|19|Caps
+54|20020905|11358|4|Accessories|28|Bottles and Cages
+146|20021023|12350|4|Accessories|33|Lights
+49|20021019|11331|3|Clothing|24|Tights
+2117|20021019|11406|3|Clothing|19|Caps
+238|20020915|13103|3|Clothing|21|Jerseys
+426|20020908|15120|4|Accessories|29|Cleaners
+280|20020920|13586|4|Accessories|26|Bike Racks
+554|20021018|16346|4|Accessories|28|Bottles and Cages
+379|20021004|14597|3|Clothing|19|Caps
+2241|20020918|28094|3|Clothing|21|Jerseys
+1356|20021014|24615|4|Accessories|29|Cleaners
+330|20021006|14091|4|Accessories|29|Cleaners
+189|20021006|12760|3|Clothing|25|Vests
+52|20020917|11344|4|Accessories|27|Bike Stands
+34|20020926|11125|4|Accessories|36|Pumps
+1548|20021016|27049|3|Clothing|18|Bib-Shorts
+121|20021001|12056|3|Clothing|20|Gloves
+476|20021016|15576|4|Accessories|30|Fenders
+1983|20020907|28924|3|Clothing|18|Bib-Shorts
+2144|20020928|20919|3|Clothing|22|Shorts
+555|20021029|16352|4|Accessories|34|Locks
+2122|20021007|23485|4|Accessories|27|Bike Stands
+140|20020912|12327|3|Clothing|23|Socks
+1664|20020923|28342|4|Accessories|28|Bottles and Cages
+1678|20021026|28505|3|Clothing|25|Vests
+1652|20021029|28245|3|Clothing|23|Socks
+2299|20021015|23340|3|Clothing|20|Gloves
+1587|20020929|27491|4|Accessories|27|Bike Stands
+1619|20021013|27907|3|Clothing|21|Jerseys
+1553|20021022|27100|4|Accessories|32|Hydration Packs
+1483|20021015|26400|3|Clothing|20|Gloves
+1335|20021016|24480|4|Accessories|26|Bike Racks
+1209|20020915|23097|3|Clothing|24|Tights
+1324|20021014|24300|4|Accessories|37|Tires and Tubes
+12|20020904|11037|4|Accessories|32|Hydration Packs
+349|20020916|14217|4|Accessories|31|Helmets
+84|20021026|11641|4|Accessories|34|Locks
+1215|20020928|23101|4|Accessories|27|Bike Stands
+843|20020912|18735|4|Accessories|30|Fenders
+243|20020926|13114|4|Accessories|35|Panniers
+482|20021005|15597|4|Accessories|34|Locks
+45|20020926|11316|3|Clothing|25|Vests
+1665|20020921|28350|3|Clothing|20|Gloves
+67|20021009|11500|4|Accessories|36|Pumps
+477|20020929|15578|3|Clothing|25|Vests
+324|20021003|14066|3|Clothing|19|Caps
+1423|20020901|25347|3|Clothing|20|Gloves
+2118|20021009|20962|3|Clothing|23|Socks
+313|20020927|14007|3|Clothing|18|Bib-Shorts
+185|20020912|12714|4|Accessories|34|Locks
+411|20021019|14999|3|Clothing|18|Bib-Shorts
+233|20020923|13051|4|Accessories|32|Hydration Packs
+102|20020923|11904|4|Accessories|36|Pumps
+473|20020914|15572|3|Clothing|25|Vests
+134|20021023|12248|4|Accessories|35|Panniers
+358|20021001|14264|3|Clothing|21|Jerseys
+534|20021026|16128|4|Accessories|31|Helmets
+1315|20021008|24218|4|Accessories|28|Bottles and Cages
+339|20020911|14146|4|Accessories|29|Cleaners
+2225|20021015|26369|4|Accessories|34|Locks
+74|20021028|11519|4|Accessories|37|Tires and Tubes
+197|20021003|12837|4|Accessories|32|Hydration Packs
+201|20021021|12870|4|Accessories|34|Locks
+2164|20020916|19093|4|Accessories|31|Helmets
+239|20020915|13103|4|Accessories|26|Bike Racks
+427|20020908|15120|4|Accessories|32|Hydration Packs
+286|20021008|13627|3|Clothing|25|Vests
+1178|20021018|22847|3|Clothing|21|Jerseys
+390|20021018|14695|3|Clothing|18|Bib-Shorts
+2247|20020918|24365|3|Clothing|23|Socks
+1357|20021014|24615|4|Accessories|31|Helmets
+364|20020915|14300|4|Accessories|34|Locks
+193|20020913|12785|3|Clothing|19|Caps
+106|20020916|11918|4|Accessories|32|Hydration Packs
+272|20020910|13535|3|Clothing|23|Socks
+1571|20020917|27304|3|Clothing|20|Gloves
+126|20020907|12136|3|Clothing|24|Tights
+509|20020906|15788|3|Clothing|23|Socks
+2017|20020924|14616|4|Accessories|36|Pumps
+1147|20021005|22383|3|Clothing|24|Tights
+1755|20021001|29179|3|Clothing|21|Jerseys
+2128|20020905|28787|3|Clothing|23|Socks
+141|20020912|12327|4|Accessories|36|Pumps
+143|20021013|12343|3|Clothing|23|Socks
+44|20020908|11300|4|Accessories|31|Helmets
+1653|20021025|28260|4|Accessories|32|Hydration Packs
+1163|20020909|22615|3|Clothing|21|Jerseys
+128|20021013|12165|4|Accessories|34|Locks
+1620|20021013|27907|4|Accessories|36|Pumps
+1592|20020910|27518|4|Accessories|29|Cleaners
+1484|20021015|26400|3|Clothing|22|Shorts
+1336|20021016|24480|4|Accessories|29|Cleaners
+1369|20021011|24884|4|Accessories|34|Locks
+123|20021019|12113|3|Clothing|25|Vests
+190|20020916|12763|4|Accessories|32|Hydration Packs
+394|20020907|14767|4|Accessories|30|Fenders
+97|20020901|11845|4|Accessories|30|Fenders
+1259|20020907|23528|3|Clothing|25|Vests
+875|20020903|19095|4|Accessories|27|Bike Stands
+492|20021003|15683|3|Clothing|24|Tights
+544|20021007|16213|3|Clothing|21|Jerseys
+46|20020926|11316|4|Accessories|28|Bottles and Cages
+1666|20020921|28350|3|Clothing|21|Jerseys
+103|20020926|11911|3|Clothing|18|Bib-Shorts
+1319|20021010|24267|4|Accessories|28|Bottles and Cages
+325|20021003|14066|4|Accessories|27|Bike Stands
+1424|20020901|25347|4|Accessories|28|Bottles and Cages
+2145|20021003|23948|4|Accessories|33|Lights
+344|20021013|14212|4|Accessories|35|Panniers
+232|20021026|13044|3|Clothing|23|Socks
+412|20021019|14999|3|Clothing|23|Socks
+388|20020905|14683|4|Accessories|31|Helmets
+376|20021006|14544|3|Clothing|18|Bib-Shorts
+474|20020914|15572|4|Accessories|37|Tires and Tubes
+135|20021023|12248|4|Accessories|36|Pumps
+359|20021001|14264|4|Accessories|36|Pumps
+535|20021026|16128|4|Accessories|34|Locks
+1330|20020924|24373|3|Clothing|19|Caps
+418|20020914|15038|3|Clothing|24|Tights
+2235|20021018|24960|4|Accessories|31|Helmets
+78|20020915|11562|4|Accessories|34|Locks
+264|20021021|13474|4|Accessories|36|Pumps
+218|20020913|13008|3|Clothing|22|Shorts
+2203|20020924|16312|3|Clothing|22|Shorts
+240|20020915|13103|4|Accessories|29|Cleaners
+485|20020925|15635|4|Accessories|26|Bike Racks
+290|20020925|13668|3|Clothing|23|Socks
+1359|20020917|24706|4|Accessories|30|Fenders
+1193|20021007|22960|3|Clothing|18|Bib-Shorts
+2277|20021012|21521|3|Clothing|20|Gloves
+1425|20021027|25349|3|Clothing|24|Tights
+386|20020903|14679|3|Clothing|22|Shorts
+194|20020913|12785|3|Clothing|25|Vests
+107|20020916|11918|4|Accessories|36|Pumps
+273|20020910|13535|4|Accessories|32|Hydration Packs
+1572|20020917|27304|4|Accessories|36|Pumps
+127|20020907|12136|4|Accessories|34|Locks
+510|20020906|15788|4|Accessories|35|Panniers
+2127|20021018|11241|4|Accessories|35|Panniers
+1148|20021005|22383|4|Accessories|29|Cleaners
+1756|20021001|29179|4|Accessories|37|Tires and Tubes
+2147|20020926|22897|4|Accessories|33|Lights
+234|20021017|13079|4|Accessories|30|Fenders
+167|20021008|12577|4|Accessories|32|Hydration Packs
+284|20020929|13618|3|Clothing|24|Tights
+1676|20021017|28473|4|Accessories|34|Locks
+1164|20020909|22615|4|Accessories|30|Fenders
+292|20021017|13694|3|Clothing|23|Socks
+1697|20020908|28652|4|Accessories|30|Fenders
+1593|20020910|27518|4|Accessories|37|Tires and Tubes
+1509|20020904|26652|4|Accessories|33|Lights
+1407|20020922|25209|3|Clothing|22|Shorts
+1371|20020918|24888|4|Accessories|29|Cleaners
+124|20021019|12113|4|Accessories|29|Cleaners
+207|20020926|12945|3|Clothing|21|Jerseys
+445|20020910|15215|4|Accessories|26|Bike Racks
+158|20020902|12401|4|Accessories|31|Helmets
+1260|20020907|23528|4|Accessories|36|Pumps
+903|20021017|19562|3|Clothing|24|Tights
+493|20021003|15683|4|Accessories|33|Lights
+1219|20021018|23121|3|Clothing|21|Jerseys
+47|20020926|11316|4|Accessories|34|Locks
+1675|20021019|28405|3|Clothing|24|Tights
+164|20020917|12530|3|Clothing|24|Tights
+1351|20020905|24595|4|Accessories|37|Tires and Tubes
+459|20021020|15262|3|Clothing|23|Socks
+1448|20021015|25793|3|Clothing|25|Vests
+2146|20020904|25689|3|Clothing|23|Socks
+389|20021007|14684|3|Clothing|25|Vests
+265|20021018|13494|3|Clothing|24|Tights
+413|20021019|14999|3|Clothing|24|Tights
+399|20020910|14857|4|Accessories|33|Lights
+397|20020929|14839|3|Clothing|21|Jerseys
+549|20020925|16276|4|Accessories|37|Tires and Tubes
+147|20020922|12351|4|Accessories|30|Fenders
+401|20021017|14877|4|Accessories|28|Bottles and Cages
+1153|20020910|22479|3|Clothing|25|Vests
+1331|20020924|24373|4|Accessories|36|Pumps
+419|20020914|15038|4|Accessories|30|Fenders
+2240|20021002|12068|3|Clothing|21|Jerseys
+176|20020924|12630|4|Accessories|33|Lights
+380|20021021|14626|4|Accessories|35|Panniers
+219|20020913|13008|4|Accessories|26|Bike Racks
+2267|20020905|18554|3|Clothing|20|Gloves
+453|20021020|15226|3|Clothing|23|Socks
+486|20020925|15635|4|Accessories|29|Cleaners
+291|20020925|13668|4|Accessories|31|Helmets
+1360|20020917|24706|4|Accessories|33|Lights
+1194|20021007|22960|4|Accessories|36|Pumps
+27|20020910|11110|3|Clothing|21|Jerseys
+1467|20020917|26158|4|Accessories|27|Bike Stands
+387|20020903|14679|4|Accessories|31|Helmets
+300|20020929|13778|3|Clothing|22|Shorts
+258|20021005|13284|3|Clothing|21|Jerseys
+333|20020903|14124|4|Accessories|35|Panniers
+1609|20021017|27843|3|Clothing|21|Jerseys
+157|20020921|12399|3|Clothing|18|Bib-Shorts
+1166|20021018|22620|3|Clothing|23|Socks
+2189|20020915|27715|3|Clothing|23|Socks
+1257|20021023|23521|3|Clothing|24|Tights
+1760|20021011|29247|4|Accessories|32|Hydration Packs
+2148|20021023|19334|3|Clothing|24|Tights
+420|20020921|15042|3|Clothing|21|Jerseys
+247|20020929|13175|3|Clothing|23|Socks
+450|20020908|15222|3|Clothing|19|Caps
+60|20021012|11446|3|Clothing|22|Shorts
+1165|20020909|22615|4|Accessories|32|Hydration Packs
+293|20021017|13694|4|Accessories|31|Helmets
+51|20020902|11338|4|Accessories|32|Hydration Packs
+1696|20021023|28648|3|Clothing|18|Bib-Shorts
+1623|20021015|27975|4|Accessories|36|Pumps
+1408|20020922|25209|4|Accessories|26|Bike Racks
+1372|20020918|24888|4|Accessories|32|Hydration Packs
+179|20020928|12677|3|Clothing|25|Vests
+314|20021025|14008|3|Clothing|21|Jerseys
+446|20020910|15215|4|Accessories|35|Panniers
+433|20021001|15145|4|Accessories|35|Panniers
+1261|20020907|23528|4|Accessories|37|Tires and Tubes
+904|20021017|19562|4|Accessories|30|Fenders
+1189|20021010|22932|3|Clothing|24|Tights
+1220|20021018|23121|4|Accessories|28|Bottles and Cages
+195|20020905|12800|4|Accessories|29|Cleaners
+2367|20020902|22421|3|Clothing|23|Socks
+165|20020917|12530|4|Accessories|34|Locks
+1573|20020907|27323|4|Accessories|37|Tires and Tubes
+460|20021020|15262|4|Accessories|33|Lights
+1545|20021008|26980|3|Clothing|18|Bib-Shorts
+2168|20020930|11766|4|Accessories|34|Locks
+469|20020916|15461|4|Accessories|28|Bottles and Cages
+266|20021018|13494|4|Accessories|33|Lights
+541|20020912|16180|3|Clothing|25|Vests
+417|20020926|15030|3|Clothing|21|Jerseys
+572|20020920|16527|4|Accessories|28|Bottles and Cages
+1289|20021023|23848|3|Clothing|18|Bib-Shorts
+148|20020922|12351|4|Accessories|31|Helmets
+402|20021017|14877|4|Accessories|29|Cleaners
+1154|20020910|22479|4|Accessories|36|Pumps
+1414|20021021|25244|4|Accessories|33|Lights
+443|20020922|15211|3|Clothing|19|Caps
+2279|20020906|24339|3|Clothing|20|Gloves
+341|20021026|14165|3|Clothing|18|Bib-Shorts
+381|20021021|14626|4|Accessories|36|Pumps
+220|20020913|13008|4|Accessories|30|Fenders
+2284|20021018|15150|3|Clothing|20|Gloves
+1271|20021015|23598|3|Clothing|22|Shorts
+508|20020910|15786|4|Accessories|29|Cleaners
+326|20020912|14067|3|Clothing|20|Gloves
+1419|20020912|25300|3|Clothing|25|Vests
+1200|20020930|23083|4|Accessories|28|Bottles and Cages
+70|20020923|11505|4|Accessories|30|Fenders
+1468|20020917|26158|4|Accessories|36|Pumps
+442|20020904|15192|3|Clothing|24|Tights
+360|20020922|14265|3|Clothing|24|Tights
+260|20020923|13350|4|Accessories|34|Locks
+504|20020903|15760|3|Clothing|19|Caps
+1677|20020910|28500|4|Accessories|29|Cleaners
+166|20021010|12571|4|Accessories|37|Tires and Tubes
+1167|20021018|22620|4|Accessories|33|Lights
+2215|20020919|14942|3|Clothing|24|Tights
+1258|20021023|23521|4|Accessories|29|Cleaners
+1791|20021009|20910|4|Accessories|32|Hydration Packs
+2162|20020919|24693|3|Clothing|22|Shorts
+421|20020921|15042|3|Clothing|24|Tights
+248|20020929|13175|3|Clothing|24|Tights
+451|20020908|15222|3|Clothing|21|Jerseys
+212|20021013|12991|4|Accessories|34|Locks
+1317|20021029|24248|3|Clothing|22|Shorts
+320|20021002|14016|3|Clothing|21|Jerseys
+63|20020914|11495|4|Accessories|33|Lights
+81|20020918|11631|4|Accessories|37|Tires and Tubes
+1651|20021029|28220|4|Accessories|33|Lights
+1622|20021014|27971|3|Clothing|24|Tights
+1387|20020914|24996|4|Accessories|29|Cleaners
+180|20020928|12677|4|Accessories|33|Lights
+315|20021025|14008|4|Accessories|36|Pumps
+447|20020910|15215|4|Accessories|36|Pumps
+470|20021005|15465|3|Clothing|19|Caps
+1294|20020903|23919|4|Accessories|28|Bottles and Cages
+1190|20021010|22932|4|Accessories|27|Bike Stands
+1253|20021003|23487|3|Clothing|19|Caps
+196|20020905|12800|4|Accessories|30|Fenders
+2386|20021007|14152|3|Clothing|24|Tights
+223|20020922|13012|3|Clothing|20|Gloves
+1605|20020907|27708|4|Accessories|28|Bottles and Cages
+1171|20020917|22631|3|Clothing|20|Gloves
+1671|20020921|28397|3|Clothing|25|Vests
+2187|20021002|15425|4|Accessories|35|Panniers
+1191|20020919|22933|4|Accessories|32|Hydration Packs
+301|20020908|13836|4|Accessories|35|Panniers
+542|20020912|16180|4|Accessories|28|Bottles and Cages
+1269|20020902|23576|3|Clothing|24|Tights
+1382|20021010|24918|4|Accessories|35|Panniers
+1340|20021011|24485|4|Accessories|31|Helmets
+203|20020904|12919|3|Clothing|24|Tights
+456|20020914|15241|3|Clothing|20|Gloves
+1184|20020916|22919|4|Accessories|36|Pumps
+1494|20020917|26482|3|Clothing|20|Gloves
+533|20021024|16109|4|Accessories|30|Fenders
+214|20020929|13004|4|Accessories|26|Bike Racks
+342|20021026|14165|4|Accessories|35|Panniers
+1157|20021018|22524|3|Clothing|24|Tights
+337|20020921|14142|4|Accessories|36|Pumps
+50|20020918|11335|4|Accessories|26|Bike Racks
+1272|20021015|23598|4|Accessories|36|Pumps
+1386|20020923|24963|3|Clothing|20|Gloves
+327|20020912|14067|4|Accessories|37|Tires and Tubes
+1469|20021019|26162|3|Clothing|24|Tights
+1201|20020930|23083|4|Accessories|35|Panniers
+71|20020923|11505|4|Accessories|34|Locks
+651|20021012|17053|3|Clothing|21|Jerseys
+478|20020904|15590|4|Accessories|34|Locks
+361|20020922|14265|4|Accessories|26|Bike Racks
+261|20020923|13350|4|Accessories|37|Tires and Tubes
+1199|20020901|23076|3|Clothing|20|Gloves
+1712|20021001|28891|4|Accessories|27|Bike Stands
+295|20021005|13732|3|Clothing|18|Bib-Shorts
+1181|20020909|22854|3|Clothing|22|Shorts
+2259|20021017|20742|3|Clothing|20|Gloves
+1379|20020920|24895|3|Clothing|25|Vests
+1817|20021005|25476|3|Clothing|25|Vests
+2170|20021027|21234|4|Accessories|36|Pumps
+422|20020921|15042|4|Accessories|29|Cleaners
+249|20020929|13175|4|Accessories|28|Bottles and Cages
+452|20020908|15222|4|Accessories|31|Helmets
+229|20020919|13034|4|Accessories|33|Lights
+1318|20021029|24248|4|Accessories|27|Bike Stands
+321|20021002|14016|4|Accessories|27|Bike Stands
+114|20020913|11987|3|Clothing|22|Shorts
+142|20020927|12338|4|Accessories|27|Bike Stands
+1662|20020908|28326|4|Accessories|35|Panniers
+6|20021008|11019|4|Accessories|34|Locks
+1413|20020906|25228|4|Accessories|37|Tires and Tubes
+225|20020924|13024|3|Clothing|24|Tights
+1198|20020922|23014|4|Accessories|32|Hydration Packs
+521|20020926|15866|3|Clothing|25|Vests
+471|20021005|15465|3|Clothing|25|Vests
+1404|20021005|25123|3|Clothing|21|Jerseys
+1195|20020913|22973|3|Clothing|19|Caps
+1254|20021003|23487|4|Accessories|29|Cleaners
+213|20020922|12997|3|Clothing|20|Gloves
+2426|20021025|15331|3|Clothing|20|Gloves
+370|20021022|14346|4|Accessories|35|Panniers
+2352|20021001|14988|3|Clothing|19|Caps
+1172|20020917|22631|4|Accessories|26|Bike Racks
+1672|20020921|28397|4|Accessories|35|Panniers
+2236|20020907|14987|3|Clothing|24|Tights
+1384|20020920|24939|3|Clothing|22|Shorts
+382|20021025|14640|3|Clothing|22|Shorts
+543|20020912|16180|4|Accessories|35|Panniers
+1270|20020902|23576|4|Accessories|34|Locks
+1499|20020909|26504|4|Accessories|32|Hydration Packs
+1341|20021011|24485|4|Accessories|37|Tires and Tubes
+204|20020904|12919|4|Accessories|26|Bike Racks
+457|20020914|15241|3|Clothing|22|Shorts
+1252|20020925|23428|4|Accessories|31|Helmets
+1495|20020917|26482|4|Accessories|27|Bike Stands
+561|20020909|16457|4|Accessories|32|Hydration Packs
+494|20020929|15689|3|Clothing|24|Tights
+385|20021002|14670|4|Accessories|27|Bike Stands
+1158|20021018|22524|4|Accessories|28|Bottles and Cages
+373|20021027|14525|3|Clothing|22|Shorts
+59|20021008|11431|4|Accessories|27|Bike Stands
+1301|20021014|23994|3|Clothing|19|Caps
+1391|20020901|25012|3|Clothing|19|Caps
+347|20020923|14215|4|Accessories|30|Fenders
+1500|20021019|26505|4|Accessories|31|Helmets
+1251|20021009|23426|4|Accessories|33|Lights
+72|20020923|11505|4|Accessories|37|Tires and Tubes
+652|20021012|17053|3|Clothing|24|Tights
+489|20020905|15679|3|Clothing|23|Socks
+440|20021006|15187|4|Accessories|30|Fenders
+303|20020908|13842|3|Clothing|19|Caps
+1601|20020913|27691|3|Clothing|19|Caps
+1713|20021001|28891|4|Accessories|29|Cleaners
+296|20021005|13732|3|Clothing|22|Shorts
+1206|20021013|23087|4|Accessories|35|Panniers
+2283|20020907|28924|3|Clothing|20|Gloves
+1380|20020920|24895|4|Accessories|28|Bottles and Cages
+1844|20021006|18726|3|Clothing|24|Tights
+1287|20021019|23774|4|Accessories|28|Bottles and Cages
+429|20021025|15127|4|Accessories|33|Lights
+263|20021021|13434|3|Clothing|23|Socks
+479|20020904|15591|4|Accessories|27|Bike Stands
+316|20021006|14009|3|Clothing|21|Jerseys
+1420|20020914|25313|3|Clothing|22|Shorts
+2359|20021012|20467|3|Clothing|21|Jerseys
+365|20021009|14304|4|Accessories|27|Bike Stands
+235|20020905|13095|3|Clothing|18|Bib-Shorts
+1|20020910|11001|3|Clothing|24|Tights
+22|20021007|11078|4|Accessories|31|Helmets
+1511|20020923|26664|4|Accessories|30|Fenders
+226|20020924|13024|4|Accessories|30|Fenders
+1275|20020923|23645|4|Accessories|32|Hydration Packs
+522|20020926|15866|4|Accessories|29|Cleaners
+519|20021019|15832|3|Clothing|25|Vests
+1405|20021005|25123|4|Accessories|33|Lights
+1196|20020913|22973|4|Accessories|31|Helmets
+2334|20021015|21586|3|Clothing|22|Shorts
+350|20020905|14220|4|Accessories|36|Pumps
+2469|20021018|20811|4|Accessories|27|Bike Stands
+518|20021004|15829|4|Accessories|26|Bike Racks
+2432|20020919|24037|4|Accessories|32|Hydration Packs
+1223|20021025|23172|3|Clothing|22|Shorts
+1705|20021029|28759|3|Clothing|19|Caps
+2274|20021025|11508|3|Clothing|20|Gloves
+1385|20020920|24939|4|Accessories|26|Bike Racks
+423|20021021|15043|4|Accessories|26|Bike Racks
+560|20020920|16435|4|Accessories|33|Lights
+1373|20020923|24889|3|Clothing|18|Bib-Shorts
+1541|20021021|26948|4|Accessories|32|Hydration Packs
+1575|20021001|27343|4|Accessories|26|Bike Racks
+205|20020904|12919|4|Accessories|35|Panniers
+497|20020919|15730|3|Clothing|23|Socks
+1325|20021003|24357|4|Accessories|27|Bike Stands
+1496|20020917|26482|4|Accessories|28|Bottles and Cages
+562|20020909|16457|4|Accessories|35|Panniers
+495|20020929|15689|4|Accessories|33|Lights
+1255|20020911|23503|4|Accessories|31|Helmets
+1342|20021005|24489|4|Accessories|35|Panniers
+374|20021027|14525|4|Accessories|26|Bike Racks
+448|20020916|15217|4|Accessories|28|Bottles and Cages
+1302|20021014|23994|3|Clothing|23|Socks
+1392|20020901|25012|4|Accessories|33|Lights
+462|20020911|15362|4|Accessories|31|Helmets
+1569|20021010|27298|4|Accessories|37|Tires and Tubes
+1297|20021006|23967|3|Clothing|20|Gloves
+100|20021007|11888|3|Clothing|22|Shorts
+653|20021012|17053|4|Accessories|28|Bottles and Cages
+539|20021001|16176|3|Clothing|25|Vests
+441|20021006|15187|4|Accessories|36|Pumps
+334|20021010|14131|3|Clothing|21|Jerseys
+1641|20020908|28140|4|Accessories|31|Helmets
+1715|20020919|28932|3|Clothing|21|Jerseys
+297|20021005|13732|4|Accessories|33|Lights
+1435|20020916|25537|3|Clothing|21|Jerseys
+1145|20020914|22265|4|Accessories|27|Bike Stands
+1381|20020920|24895|4|Accessories|31|Helmets
+2013|20020929|19155|3|Clothing|18|Bib-Shorts
+1417|20020927|25249|4|Accessories|28|Bottles and Cages
+558|20021020|16406|3|Clothing|19|Caps
+537|20020907|16168|4|Accessories|27|Bike Stands
+480|20020904|15591|4|Accessories|28|Bottles and Cages
+317|20021006|14009|3|Clothing|24|Tights
+1514|20021016|26667|3|Clothing|19|Caps
+2376|20021029|17084|4|Accessories|27|Bike Stands
+465|20020922|15436|3|Clothing|21|Jerseys
+236|20020905|13095|3|Clothing|21|Jerseys
+2|20020910|11001|4|Accessories|30|Fenders
+26|20020927|11109|3|Clothing|25|Vests
+1512|20020923|26664|4|Accessories|35|Panniers
+227|20020924|13024|4|Accessories|36|Pumps
+1343|20020914|24494|3|Clothing|22|Shorts
+1248|20021002|23419|3|Clothing|20|Gloves
+530|20021016|16083|3|Clothing|24|Tights
+1406|20021018|25125|4|Accessories|37|Tires and Tubes
+1231|20020907|23315|4|Accessories|26|Bike Racks
+2427|20020926|12559|4|Accessories|37|Tires and Tubes
+377|20021018|14546|4|Accessories|28|Bottles and Cages
+2491|20020930|25974|3|Clothing|25|Vests
+536|20020928|16159|3|Clothing|22|Shorts
+2474|20020926|29157|4|Accessories|32|Hydration Packs
+1224|20021025|23172|4|Accessories|36|Pumps
+1706|20021029|28759|4|Accessories|35|Panniers
+18|20020913|11054|3|Clothing|18|Bib-Shorts
+1466|20021018|26157|3|Clothing|23|Socks
+540|20020916|16179|3|Clothing|21|Jerseys
+1169|20020904|22630|3|Clothing|18|Bib-Shorts
+1393|20021021|25021|3|Clothing|24|Tights
+2375|20021029|27335|4|Accessories|30|Fenders
+1595|20020921|27557|3|Clothing|18|Bib-Shorts
+250|20020907|13197|4|Accessories|26|Bike Racks
+498|20020919|15730|3|Clothing|24|Tights
+1329|20021025|24369|4|Accessories|32|Hydration Packs
+1582|20020908|27414|3|Clothing|23|Socks
+1159|20021024|22573|3|Clothing|24|Tights
+545|20020909|16251|4|Accessories|29|Cleaners
+1256|20020911|23503|4|Accessories|36|Pumps
+1474|20021029|26230|4|Accessories|36|Pumps
+375|20021027|14525|4|Accessories|36|Pumps
+449|20020916|15217|4|Accessories|29|Cleaners
+1395|20021003|25036|4|Accessories|34|Locks
+1479|20020926|26321|3|Clothing|22|Shorts
+466|20020911|15453|3|Clothing|22|Shorts
+1669|20020925|28372|4|Accessories|31|Helmets
+1298|20021006|23967|4|Accessories|28|Bottles and Cages
+101|20021007|11888|4|Accessories|35|Panniers
+654|20021012|17053|4|Accessories|31|Helmets
+1306|20020901|24161|3|Clothing|22|Shorts
+1229|20020907|23306|4|Accessories|37|Tires and Tubes
+335|20021010|14131|4|Accessories|30|Fenders
+1689|20020908|28602|3|Clothing|21|Jerseys
+1716|20020919|28932|4|Accessories|33|Lights
+328|20020901|14070|4|Accessories|27|Bike Stands
+1540|20021021|26916|3|Clothing|24|Tights
+1146|20020914|22265|4|Accessories|28|Bottles and Cages
+1491|20021011|26442|3|Clothing|22|Shorts
+2076|20021009|20910|3|Clothing|25|Vests
+1454|20020914|25920|4|Accessories|28|Bottles and Cages
+559|20021020|16406|4|Accessories|28|Bottles and Cages
+538|20020907|16168|4|Accessories|29|Cleaners
+2397|20021018|25574|4|Accessories|30|Fenders
+318|20021006|14009|4|Accessories|28|Bottles and Cages
+1515|20021016|26667|4|Accessories|29|Cleaners
+2408|20021010|22583|4|Accessories|30|Fenders
+547|20021020|16260|4|Accessories|31|Helmets
+237|20020905|13095|4|Accessories|26|Bike Racks
+3|20020910|11001|4|Accessories|32|Hydration Packs
+82|20020902|11640|4|Accessories|27|Bike Stands
+1561|20020919|27144|3|Clothing|20|Gloves
+268|20020929|13522|4|Accessories|32|Hydration Packs
+1344|20020914|24494|3|Clothing|23|Socks
+1249|20021002|23419|3|Clothing|21|Jerseys
+531|20021016|16083|4|Accessories|32|Hydration Packs
+1524|20020902|26753|3|Clothing|22|Shorts
+1232|20020907|23315|4|Accessories|33|Lights
+2627|20020926|12559|3|Clothing|23|Socks
+378|20021018|14546|4|Accessories|29|Cleaners
+2586|20021007|14152|3|Clothing|25|Vests
+1173|20020907|22640|3|Clothing|19|Caps
+2632|20020919|24037|4|Accessories|27|Bike Stands
+1388|20020901|25002|3|Clothing|23|Socks
+2345|20021006|11402|3|Clothing|21|Jerseys
+40|20020904|11276|3|Clothing|23|Socks
+1567|20020919|27282|3|Clothing|23|Socks
+568|20021007|16491|4|Accessories|30|Fenders
+1170|20020904|22630|3|Clothing|20|Gloves
+1394|20021021|25021|4|Accessories|29|Cleaners
+2420|20020921|17187|3|Clothing|22|Shorts
+1710|20020901|28836|4|Accessories|27|Bike Stands
+251|20020907|13197|4|Accessories|35|Panniers
+499|20020919|15730|4|Accessories|36|Pumps
+1684|20020923|28566|4|Accessories|31|Helmets
+1679|20021001|28507|4|Accessories|36|Pumps
+1185|20021001|22928|3|Clothing|22|Shorts
+546|20020909|16251|4|Accessories|34|Locks
+1264|20020914|23553|3|Clothing|18|Bib-Shorts
+1562|20020906|27146|3|Clothing|25|Vests
+1217|20020913|23114|3|Clothing|21|Jerseys
+454|20020929|15229|4|Accessories|32|Hydration Packs
+1546|20020912|26983|4|Accessories|28|Bottles and Cages
+1480|20020926|26321|4|Accessories|27|Bike Stands
+467|20020911|15453|4|Accessories|31|Helmets
+1670|20020925|28372|4|Accessories|35|Panniers
+1427|20020906|25427|4|Accessories|36|Pumps
+118|20020928|11997|4|Accessories|28|Bottles and Cages
+688|20020924|17299|4|Accessories|28|Bottles and Cages
+1437|20020928|25558|3|Clothing|20|Gloves
+1262|20020909|23530|4|Accessories|26|Bike Racks
+455|20020901|15238|4|Accessories|29|Cleaners
+1690|20020908|28602|4|Accessories|35|Panniers
+2308|20020907|21628|3|Clothing|20|Gloves
+351|20020925|14222|3|Clothing|20|Gloves
+1597|20020923|27591|4|Accessories|26|Bike Racks
+1182|20020923|22914|3|Clothing|19|Caps
+1492|20021011|26442|4|Accessories|31|Helmets
+2102|20021005|25476|4|Accessories|34|Locks
+1576|20021011|27351|4|Accessories|33|Lights
+2316|20021006|25473|3|Clothing|21|Jerseys
+2362|20020916|22397|4|Accessories|33|Lights
+2435|20021016|19058|4|Accessories|32|Hydration Packs
+400|20021011|14858|4|Accessories|29|Cleaners
+1686|20021018|28575|3|Clothing|23|Socks
+2508|20020904|27973|3|Clothing|19|Caps
+548|20021020|16260|4|Accessories|35|Panniers
+270|20020924|13528|4|Accessories|32|Hydration Packs
+68|20020926|11502|3|Clothing|21|Jerseys
+83|20020902|11640|4|Accessories|33|Lights
+1574|20021014|27325|4|Accessories|37|Tires and Tubes
+269|20020929|13522|4|Accessories|33|Lights
+1401|20021021|25113|4|Accessories|36|Pumps
+1250|20021002|23419|3|Clothing|24|Tights
+1310|20021007|24172|3|Clothing|20|Gloves
+1606|20021027|27714|3|Clothing|18|Bib-Shorts
+1233|20020907|23315|4|Accessories|35|Panniers
+665|20020902|17119|3|Clothing|23|Socks
+550|20021017|16293|4|Accessories|29|Cleaners
+2626|20021025|15331|3|Clothing|19|Caps
+1174|20020907|22640|3|Clothing|22|Shorts
+2674|20020926|29157|3|Clothing|24|Tights
+1389|20020901|25002|3|Clothing|24|Tights
+2361|20020908|16577|3|Clothing|22|Shorts
+41|20020904|11276|4|Accessories|34|Locks
+1568|20020919|27282|4|Accessories|32|Hydration Packs
+569|20021007|16491|4|Accessories|32|Hydration Packs
+1237|20020929|23348|4|Accessories|26|Bike Racks
+1418|20020915|25252|3|Clothing|22|Shorts
+2538|20020918|12466|4|Accessories|30|Fenders
+1711|20020901|28836|4|Accessories|31|Helmets
+352|20021007|14227|4|Accessories|26|Bike Racks
+511|20020913|15793|3|Clothing|22|Shorts
+1685|20020923|28566|4|Accessories|33|Lights
+2310|20021023|13042|3|Clothing|20|Gloves
+1186|20021001|22928|4|Accessories|30|Fenders
+1462|20020920|26073|3|Clothing|25|Vests
+1265|20020914|23553|4|Accessories|37|Tires and Tubes
+1580|20021017|27380|3|Clothing|21|Jerseys
+1218|20020913|23114|3|Clothing|23|Socks
+468|20021024|15455|4|Accessories|27|Bike Stands
+1586|20021006|27451|3|Clothing|23|Socks
+1481|20020926|26321|4|Accessories|32|Hydration Packs
+490|20020910|15681|3|Clothing|21|Jerseys
+2331|20020922|22959|4|Accessories|31|Helmets
+1473|20021009|26193|3|Clothing|19|Caps
+129|20021012|12166|3|Clothing|22|Shorts
+689|20020924|17299|4|Accessories|31|Helmets
+1504|20021025|26568|4|Accessories|33|Lights
+1291|20021003|23898|4|Accessories|29|Cleaners
+563|20021003|16481|4|Accessories|31|Helmets
+2328|20020917|18179|4|Accessories|36|Pumps
+2463|20021022|13851|3|Clothing|25|Vests
+488|20020905|15648|4|Accessories|31|Helmets
+1608|20021020|27787|3|Clothing|23|Socks
+1183|20020923|22914|3|Clothing|21|Jerseys
+1555|20020909|27112|4|Accessories|26|Bike Racks
+1150|20021010|22408|4|Accessories|28|Bottles and Cages
+2389|20021004|27807|4|Accessories|30|Fenders
+2439|20020925|17269|4|Accessories|32|Hydration Packs
+2447|20021012|14250|4|Accessories|30|Fenders
+2448|20020905|24000|3|Clothing|25|Vests
+2325|20020922|16132|3|Clothing|24|Tights
+1691|20021015|28620|3|Clothing|24|Tights
+2520|20020924|16433|4|Accessories|28|Bottles and Cages
+2377|20020917|29450|3|Clothing|25|Vests
+312|20021002|13995|4|Accessories|36|Pumps
+69|20020926|11502|3|Clothing|23|Socks
+95|20021027|11758|4|Accessories|34|Locks
+1610|20021011|27866|4|Accessories|32|Hydration Packs
+340|20020901|14153|4|Accessories|37|Tires and Tubes
+1497|20020912|26489|4|Accessories|33|Lights
+1358|20020928|24661|4|Accessories|32|Hydration Packs
+1311|20021007|24172|4|Accessories|26|Bike Racks
+1661|20020918|28310|3|Clothing|23|Socks
+1284|20021018|23719|3|Clothing|22|Shorts
+666|20020902|17119|4|Accessories|34|Locks
+551|20021017|16293|4|Accessories|37|Tires and Tubes
+2669|20021018|20811|4|Accessories|37|Tires and Tubes
+1290|20021002|23865|3|Clothing|20|Gloves
+575|20020916|16529|4|Accessories|35|Panniers
+1390|20020901|25002|4|Accessories|26|Bike Racks
+2494|20021016|28167|3|Clothing|21|Jerseys
+64|20021011|11498|3|Clothing|21|Jerseys
+1647|20021004|28203|3|Clothing|22|Shorts
+570|20021007|16491|4|Accessories|37|Tires and Tubes
+1238|20020929|23348|4|Accessories|27|Bike Stands
+1579|20020919|27377|3|Clothing|20|Gloves
+2575|20021029|27335|3|Clothing|20|Gloves
+2390|20021024|24153|4|Accessories|30|Fenders
+525|20020906|16032|3|Clothing|18|Bib-Shorts
+512|20020913|15793|3|Clothing|24|Tights
+1695|20020917|28640|4|Accessories|29|Cleaners
+2339|20021017|27488|3|Clothing|23|Socks
+1187|20021001|22928|4|Accessories|36|Pumps
+1464|20020926|26129|3|Clothing|25|Vests
+1659|20020920|28306|3|Clothing|18|Bib-Shorts
+1613|20021005|27875|4|Accessories|30|Fenders
+1268|20021003|23574|4|Accessories|34|Locks
+1197|20021021|23012|4|Accessories|31|Helmets
+1607|20021006|27785|4|Accessories|32|Hydration Packs
+1490|20021014|26441|3|Clothing|21|Jerseys
+491|20020910|15681|4|Accessories|27|Bike Stands
+2337|20021004|19156|3|Clothing|22|Shorts
+1503|20020923|26565|3|Clothing|24|Tights
+130|20021012|12166|4|Accessories|37|Tires and Tubes
+849|20020908|18788|3|Clothing|22|Shorts
+1505|20021025|26568|4|Accessories|35|Panniers
+1292|20021003|23898|4|Accessories|30|Fenders
+564|20021003|16481|4|Accessories|33|Lights
+2417|20021027|28443|4|Accessories|28|Bottles and Cages
+2523|20020904|19323|4|Accessories|28|Bottles and Cages
+565|20021022|16483|3|Clothing|20|Gloves
+1673|20020902|28404|4|Accessories|29|Cleaners
+1222|20021002|23159|3|Clothing|24|Tights
+1556|20020909|27112|4|Accessories|27|Bike Stands
+1151|20021010|22408|4|Accessories|33|Lights
+2441|20020911|15446|4|Accessories|36|Pumps
+2490|20020925|29482|3|Clothing|22|Shorts
+2454|20020928|21622|3|Clothing|24|Tights
+2597|20021018|25574|3|Clothing|25|Vests
+2357|20020916|14188|4|Accessories|35|Panniers
+1692|20021015|28620|4|Accessories|37|Tires and Tubes
+2576|20021029|17084|3|Clothing|25|Vests
+2434|20020919|11537|4|Accessories|32|Hydration Packs
+398|20021007|14854|3|Clothing|20|Gloves
+186|20020901|12715|3|Clothing|19|Caps
+96|20020910|11808|4|Accessories|29|Cleaners
+7|20021016|11026|4|Accessories|28|Bottles and Cages
+414|20021001|15019|3|Clothing|20|Gloves
+2304|20020917|18325|3|Clothing|20|Gloves
+1438|20020928|25635|3|Clothing|20|Gloves
+1312|20021007|24172|4|Accessories|30|Fenders
+2460|20021017|13190|4|Accessories|32|Hydration Packs
+1285|20021018|23719|4|Accessories|29|Cleaners
+708|20020907|17400|3|Clothing|25|Vests
+1321|20020902|24283|3|Clothing|23|Socks
+2691|20020930|25974|3|Clothing|19|Caps
+1333|20021025|24465|3|Clothing|20|Gloves
+593|20020903|16663|3|Clothing|21|Jerseys
+1445|20021014|25768|4|Accessories|27|Bike Stands
+2512|20021004|20892|3|Clothing|23|Socks
+65|20021011|11498|3|Clothing|22|Shorts
+2413|20021021|16485|4|Accessories|31|Helmets
+1221|20020906|23123|4|Accessories|32|Hydration Packs
+1239|20020929|23348|4|Accessories|31|Helmets
+1611|20021022|27872|4|Accessories|29|Cleaners
+2620|20020921|17187|4|Accessories|33|Lights
+2529|20020913|11594|4|Accessories|27|Bike Stands
+526|20020906|16032|3|Clothing|24|Tights
+513|20020913|15793|3|Clothing|25|Vests
+2482|20021007|24713|4|Accessories|31|Helmets
+2364|20020902|20497|4|Accessories|31|Helmets
+1188|20021001|22928|4|Accessories|37|Tires and Tubes
+1516|20020905|26671|3|Clothing|23|Socks
+2374|20021015|14766|4|Accessories|27|Bike Stands
+1657|20021011|28304|3|Clothing|25|Vests
+1326|20021022|24362|3|Clothing|20|Gloves
+1240|20020918|23350|3|Clothing|19|Caps
+1615|20021007|27883|3|Clothing|22|Shorts
+1507|20020906|26620|3|Clothing|22|Shorts
+1210|20021026|23098|3|Clothing|23|Socks
+2541|20021022|12509|4|Accessories|30|Fenders
+1531|20021012|26802|3|Clothing|18|Bib-Shorts
+202|20020902|12895|3|Clothing|21|Jerseys
+990|20021008|20239|4|Accessories|35|Panniers
+1506|20021025|26568|4|Accessories|36|Pumps
+1293|20021003|23898|4|Accessories|34|Locks
+571|20021004|16525|4|Accessories|32|Hydration Packs
+2465|20021001|20052|4|Accessories|30|Fenders
+2663|20021022|13851|3|Clothing|22|Shorts
+566|20021022|16483|3|Clothing|21|Jerseys
+1674|20020902|28404|4|Accessories|34|Locks
+1245|20020902|23417|3|Clothing|19|Caps
+1557|20020909|27112|4|Accessories|36|Pumps
+1152|20021010|22408|4|Accessories|34|Locks
+2450|20020917|28704|4|Accessories|30|Fenders
+2639|20020925|17269|4|Accessories|37|Tires and Tubes
+2461|20020924|20982|3|Clothing|20|Gloves
+2635|20021016|19058|4|Accessories|30|Fenders
+2471|20020921|12762|4|Accessories|32|Hydration Packs
+77|20020925|11530|4|Accessories|29|Cleaners
+2708|20020904|27973|4|Accessories|30|Fenders
+2449|20020910|16983|4|Accessories|26|Bike Racks
+438|20021002|15157|3|Clothing|23|Socks
+187|20020901|12715|4|Accessories|27|Bike Stands
+108|20020904|11952|3|Clothing|25|Vests
+150|20020918|12358|4|Accessories|30|Fenders
+415|20021001|15019|3|Clothing|22|Shorts
+2348|20020906|14879|4|Accessories|33|Lights
+1439|20020928|25635|4|Accessories|34|Locks
+1367|20021011|24882|3|Clothing|19|Caps
+2526|20020912|28894|4|Accessories|29|Cleaners
+1355|20021029|24613|4|Accessories|32|Hydration Packs
+709|20020907|17400|4|Accessories|37|Tires and Tubes
+1350|20021027|24533|3|Clothing|19|Caps
+656|20021008|17062|3|Clothing|23|Socks
+1363|20021017|24757|3|Clothing|18|Bib-Shorts
+609|20020921|16706|3|Clothing|25|Vests
+1493|20020917|26447|3|Clothing|22|Shorts
+2547|20021019|26799|4|Accessories|31|Helmets
+66|20021011|11498|4|Accessories|29|Cleaners
+2445|20020917|25928|4|Accessories|29|Cleaners
+1334|20021014|24478|4|Accessories|29|Cleaners
+1299|20020918|23979|4|Accessories|31|Helmets
+2347|20021020|19466|3|Clothing|22|Shorts
+2738|20020918|12466|3|Clothing|25|Vests
+2535|20021007|19352|4|Accessories|36|Pumps
+527|20020906|16032|4|Accessories|26|Bike Racks
+514|20020913|15793|4|Accessories|27|Bike Stands
+2682|20021007|24713|4|Accessories|32|Hydration Packs
+2424|20021027|23077|3|Clothing|20|Gloves
+1288|20021021|23780|4|Accessories|27|Bike Stands
+1585|20020907|27428|4|Accessories|33|Lights
+2387|20021013|21132|3|Clothing|21|Jerseys
+1658|20021011|28304|4|Accessories|36|Pumps
+1327|20021022|24362|3|Clothing|21|Jerseys
+1241|20020918|23350|4|Accessories|30|Fenders
+1680|20021025|28526|4|Accessories|31|Helmets
+1508|20020906|26620|4|Accessories|35|Panniers
+1211|20021026|23098|3|Clothing|25|Vests
+655|20020906|17055|4|Accessories|35|Panniers
+1532|20021012|26802|3|Clothing|25|Vests
+281|20020922|13587|4|Accessories|35|Panniers
+991|20021008|20239|4|Accessories|37|Tires and Tubes
+2330|20020905|14818|3|Clothing|22|Shorts
+1648|20020924|28211|4|Accessories|32|Hydration Packs
+1624|20020930|27980|4|Accessories|34|Locks
+2617|20021027|28443|4|Accessories|37|Tires and Tubes
+2723|20020904|19323|3|Clothing|20|Gloves
+567|20021022|16483|3|Clothing|22|Shorts
+1698|20020921|28656|4|Accessories|34|Locks
+1246|20020902|23417|4|Accessories|28|Bottles and Cages
+1570|20021022|27300|3|Clothing|19|Caps
+1225|20021015|23223|4|Accessories|33|Lights
+2495|20021017|18529|4|Accessories|36|Pumps
+2690|20020925|29482|4|Accessories|29|Cleaners
+2473|20020903|24069|4|Accessories|32|Hydration Packs
+2648|20020905|24000|3|Clothing|21|Jerseys
+2511|20020916|13936|3|Clothing|24|Tights
+262|20021011|13391|4|Accessories|37|Tires and Tubes
+2720|20020924|16433|4|Accessories|36|Pumps
+2462|20021020|21319|4|Accessories|29|Cleaners
+444|20020930|15212|3|Clothing|18|Bib-Shorts
+198|20020918|12840|3|Clothing|24|Tights
+109|20020904|11952|4|Accessories|31|Helmets
+228|20021007|13026|4|Accessories|31|Helmets
+2309|20020923|22015|3|Clothing|20|Gloves
+2398|20020915|24124|4|Accessories|30|Fenders
+1451|20021027|25907|3|Clothing|25|Vests
+1368|20021011|24882|4|Accessories|30|Fenders
+2660|20021017|13190|3|Clothing|22|Shorts
+1370|20020903|24885|4|Accessories|33|Lights
+894|20020907|19385|3|Clothing|23|Socks
+1434|20020926|25533|3|Clothing|25|Vests
+676|20021007|17238|4|Accessories|28|Bottles and Cages
+1364|20021017|24757|4|Accessories|31|Helmets
+728|20020913|17730|4|Accessories|30|Fenders
+1510|20020917|26653|4|Accessories|28|Bottles and Cages
+2566|20020930|14136|4|Accessories|36|Pumps
+483|20020923|15602|4|Accessories|31|Helmets
+2497|20020917|26417|4|Accessories|29|Cleaners
+1374|20020926|24890|4|Accessories|28|Bottles and Cages
+1300|20020918|23979|4|Accessories|35|Panniers
+2363|20020922|15270|3|Clothing|21|Jerseys
+573|20020920|16527|4|Accessories|30|Fenders
+2539|20021008|20057|3|Clothing|23|Socks
+528|20020906|16032|4|Accessories|28|Bottles and Cages
+520|20020906|15856|3|Clothing|24|Tights
+763|20020907|18160|4|Accessories|36|Pumps
+2452|20021023|12956|4|Accessories|29|Cleaners
+1337|20020906|24482|3|Clothing|23|Socks
+1603|20021013|27703|3|Clothing|18|Bib-Shorts
+2409|20021006|27477|4|Accessories|30|Fenders
+1704|20021004|28744|4|Accessories|30|Fenders
+1328|20021022|24362|4|Accessories|28|Bottles and Cages
+1295|20020929|23924|4|Accessories|33|Lights
+1681|20021025|28526|4|Accessories|32|Hydration Packs
+1529|20021026|26765|3|Clothing|22|Shorts
+1212|20021026|23098|4|Accessories|30|Fenders
+719|20021014|17707|3|Clothing|23|Socks
+1533|20021012|26802|4|Accessories|26|Bike Racks
+416|20020925|15021|4|Accessories|36|Pumps
+1095|20020915|21831|3|Clothing|23|Socks
+2369|20021010|24676|3|Clothing|24|Tights
+2358|20020916|13875|3|Clothing|23|Socks
+1642|20020920|28160|4|Accessories|27|Bike Stands
+2665|20021001|20052|4|Accessories|36|Pumps
+710|20021003|17491|3|Clothing|24|Tights
+1175|20021013|22840|3|Clothing|18|Bib-Shorts
+1699|20020921|28656|4|Accessories|35|Panniers
+1247|20020902|23417|4|Accessories|30|Fenders
+1638|20020923|28136|4|Accessories|34|Locks
+1226|20021015|23223|4|Accessories|36|Pumps
+2501|20021012|12889|4|Accessories|29|Cleaners
+758|20020929|18092|3|Clothing|25|Vests
+2532|20020923|27126|4|Accessories|33|Lights
+695|20021026|17319|3|Clothing|21|Jerseys
+2522|20021017|17641|4|Accessories|26|Bike Racks
+362|20021017|14278|3|Clothing|19|Caps
+660|20021012|17112|3|Clothing|20|Gloves
+2499|20020910|11181|4|Accessories|34|Locks
+552|20020930|16339|4|Accessories|37|Tires and Tubes
+199|20020918|12840|4|Accessories|33|Lights
+368|20021018|14325|4|Accessories|28|Bottles and Cages
+257|20021014|13257|4|Accessories|33|Lights
+2321|20021001|15303|3|Clothing|19|Caps
+2428|20020924|12041|4|Accessories|32|Hydration Packs
+1452|20021027|25907|4|Accessories|36|Pumps
+1433|20020928|25525|3|Clothing|24|Tights
+2726|20020912|28894|4|Accessories|34|Locks
+1426|20021013|25363|4|Accessories|32|Hydration Packs
+934|20020902|19762|3|Clothing|20|Gloves
+1485|20020929|26401|4|Accessories|26|Bike Racks
+677|20021007|17238|4|Accessories|34|Locks
+1577|20020916|27363|4|Accessories|28|Bottles and Cages
+729|20020913|17730|4|Accessories|32|Hydration Packs
+1527|20020903|26763|3|Clothing|22|Shorts
+2694|20021016|28167|3|Clothing|22|Shorts
+487|20021008|15644|3|Clothing|25|Vests
+2534|20021015|17805|4|Accessories|28|Bottles and Cages
+1375|20020926|24890|4|Accessories|31|Helmets
+1377|20020915|24893|4|Accessories|34|Locks
+2385|20020928|22800|3|Clothing|25|Vests
+574|20020920|16527|4|Accessories|36|Pumps
+2590|20021024|24153|3|Clothing|25|Vests
+529|20020906|16032|4|Accessories|32|Hydration Packs
+1243|20021014|23415|3|Clothing|25|Vests
+785|20020915|18259|3|Clothing|20|Gloves
+2624|20021027|23077|3|Clothing|23|Socks
+1338|20020906|24482|4|Accessories|30|Fenders
+1604|20021013|27703|4|Accessories|28|Bottles and Cages
+2483|20020922|24287|3|Clothing|24|Tights
+1714|20020923|28913|4|Accessories|26|Bike Racks
+1403|20020909|25119|4|Accessories|33|Lights
+1296|20020929|23924|4|Accessories|35|Panniers
+2412|20021021|29235|3|Clothing|20|Gloves
+1654|20020925|28284|3|Clothing|22|Shorts
+1396|20020911|25066|3|Clothing|18|Bib-Shorts
+1049|20020914|21060|4|Accessories|26|Bike Racks
+1598|20021011|27628|3|Clothing|24|Tights
+425|20020918|15078|3|Clothing|21|Jerseys
+1096|20020915|21831|3|Clothing|25|Vests
+2388|20021021|23973|3|Clothing|18|Bib-Shorts
+2443|20020930|21505|4|Accessories|34|Locks
+2394|20021007|23756|4|Accessories|30|Fenders
+581|20021022|16571|3|Clothing|20|Gloves
+711|20021003|17491|4|Accessories|31|Helmets
+1305|20021001|24080|3|Clothing|23|Socks
+2346|20021003|29279|4|Accessories|35|Panniers
+1399|20020907|25107|4|Accessories|31|Helmets
+2315|20020910|28529|3|Clothing|21|Jerseys
+1234|20021014|23343|3|Clothing|20|Gloves
+2589|20021004|27807|3|Clothing|25|Vests
+759|20020929|18092|4|Accessories|34|Locks
+2544|20020902|16153|4|Accessories|34|Locks
+696|20021026|17319|4|Accessories|32|Hydration Packs
+2548|20021026|13899|4|Accessories|33|Lights
+363|20021017|14278|4|Accessories|36|Pumps
+661|20021012|17112|4|Accessories|36|Pumps
+2533|20021006|28471|3|Clothing|20|Gloves
+2353|20021003|29454|4|Accessories|35|Panniers
+200|20020918|12840|4|Accessories|36|Pumps
+439|20021020|15186|3|Clothing|24|Tights
+304|20021009|13846|4|Accessories|31|Helmets
+2372|20021005|12649|4|Accessories|32|Hydration Packs
+2553|20020925|23908|4|Accessories|33|Lights
+1465|20021008|26139|4|Accessories|30|Fenders
+1441|20021004|25699|4|Accessories|26|Bike Racks
+587|20021004|16635|3|Clothing|25|Vests
+1430|20020926|25524|3|Clothing|23|Socks
+995|20020927|20248|4|Accessories|32|Hydration Packs
+1486|20020929|26401|4|Accessories|36|Pumps
+678|20020914|17242|3|Clothing|24|Tights
+1589|20021015|27497|3|Clothing|18|Bib-Shorts
+730|20020913|17730|4|Accessories|35|Panniers
+2314|20020906|13089|3|Clothing|20|Gloves
+2712|20021004|20892|3|Clothing|22|Shorts
+501|20020923|15756|3|Clothing|22|Shorts
+2613|20021021|16485|3|Clothing|21|Jerseys
+1376|20020926|24890|4|Accessories|34|Locks
+1378|20020915|24893|4|Accessories|35|Panniers
+2396|20020920|12552|4|Accessories|30|Fenders
+780|20020921|18251|4|Accessories|35|Panniers
+2735|20021007|19352|3|Clothing|19|Caps
+1179|20020917|22849|3|Clothing|18|Bib-Shorts
+1449|20020914|25797|4|Accessories|33|Lights
+786|20020915|18259|4|Accessories|30|Fenders
+2652|20021023|12956|3|Clothing|23|Socks
+2311|20020914|15109|3|Clothing|20|Gloves
+2436|20021021|24732|4|Accessories|32|Hydration Packs
+2550|20021009|29359|4|Accessories|27|Bike Stands
+2312|20021027|25452|3|Clothing|20|Gloves
+1416|20021004|25248|4|Accessories|28|Bottles and Cages
+1307|20021005|24167|3|Clothing|22|Shorts
+2530|20020916|19487|4|Accessories|26|Bike Racks
+2400|20021028|12830|4|Accessories|30|Fenders
+1397|20020911|25066|4|Accessories|36|Pumps
+1600|20021028|27688|4|Accessories|33|Lights
+515|20021004|15800|4|Accessories|33|Lights
+1127|20021006|22050|3|Clothing|20|Gloves
+2569|20021010|24676|4|Accessories|34|Locks
+2643|20020930|21505|3|Clothing|23|Socks
+2419|20020921|15650|4|Accessories|28|Bottles and Cages
+834|20021001|18708|3|Clothing|23|Socks
+718|20021015|17686|3|Clothing|20|Gloves
+1313|20021027|24192|3|Clothing|23|Socks
+2414|20021011|27290|4|Accessories|32|Hydration Packs
+1400|20020907|25107|4|Accessories|36|Pumps
+2383|20021010|14144|4|Accessories|30|Fenders
+1235|20021014|23343|4|Accessories|35|Panniers
+2641|20020911|15446|3|Clothing|24|Tights
+878|20021025|19150|4|Accessories|37|Tires and Tubes
+2564|20021023|28790|4|Accessories|31|Helmets
+697|20021026|17319|4|Accessories|35|Panniers
+2551|20020907|24628|4|Accessories|37|Tires and Tubes
+458|20021017|15253|3|Clothing|20|Gloves
+682|20021018|17251|4|Accessories|28|Bottles and Cages
+2577|20020917|29450|4|Accessories|30|Fenders
+2370|20020918|26871|4|Accessories|35|Panniers
+278|20020928|13562|3|Clothing|25|Vests
+2519|20021025|27318|4|Accessories|33|Lights
+430|20020904|15139|3|Clothing|21|Jerseys
+2422|20020916|22962|4|Accessories|30|Fenders
+2598|20020915|24124|3|Clothing|25|Vests
+1660|20020910|28307|4|Accessories|34|Locks
+1446|20021027|25778|4|Accessories|30|Fenders
+588|20021004|16635|4|Accessories|30|Fenders
+1431|20020926|25524|4|Accessories|27|Bike Stands
+1048|20021012|21045|3|Clothing|19|Caps
+1488|20020921|26431|3|Clothing|22|Shorts
+715|20020921|17636|3|Clothing|21|Jerseys
+1663|20020909|28328|4|Accessories|36|Pumps
+986|20020928|20234|3|Clothing|22|Shorts
+2403|20020927|19426|4|Accessories|30|Fenders
+2766|20020930|14136|3|Clothing|25|Vests
+556|20021005|16402|3|Clothing|24|Tights
+2645|20020917|25928|3|Clothing|21|Jerseys
+1412|20020927|25224|4|Accessories|30|Fenders
+1429|20021015|25461|4|Accessories|31|Helmets
+2455|20020919|14348|4|Accessories|35|Panniers
+1003|20021023|20354|4|Accessories|29|Cleaners
+2739|20021008|20057|3|Clothing|20|Gloves
+1180|20020917|22849|4|Accessories|29|Cleaners
+1455|20021018|25935|4|Accessories|26|Bike Racks
+787|20020915|18259|4|Accessories|33|Lights
+698|20020924|17327|3|Clothing|24|Tights
+2336|20020908|12627|4|Accessories|35|Panniers
+2556|20020902|21665|4|Accessories|37|Tires and Tubes
+2563|20020926|12908|4|Accessories|27|Bike Stands
+2329|20020927|25143|4|Accessories|33|Lights
+1456|20021013|25951|3|Clothing|18|Bib-Shorts
+1308|20021005|24167|3|Clothing|25|Vests
+2562|20021009|22874|4|Accessories|26|Bike Racks
+2446|20021003|13135|4|Accessories|35|Panniers
+1398|20020911|25066|4|Accessories|37|Tires and Tubes
+1618|20020925|27897|4|Accessories|32|Hydration Packs
+532|20021006|16096|4|Accessories|31|Helmets
+1142|20020914|22234|4|Accessories|31|Helmets
+2588|20021021|23973|3|Clothing|25|Vests
+674|20020910|17235|4|Accessories|36|Pumps
+2425|20021025|25867|4|Accessories|29|Cleaners
+835|20021001|18708|4|Accessories|30|Fenders
+720|20021018|17709|4|Accessories|27|Bike Stands
+1314|20021027|24192|4|Accessories|33|Lights
+2453|20021010|15501|4|Accessories|32|Hydration Packs
+1409|20020907|25211|4|Accessories|34|Locks
+2411|20021007|15419|4|Accessories|30|Fenders
+1236|20021014|23343|4|Accessories|37|Tires and Tubes
+2650|20020917|28704|4|Accessories|29|Cleaners
+1024|20021003|20679|4|Accessories|33|Lights
+2647|20021012|14250|4|Accessories|31|Helmets
+705|20020902|17388|4|Accessories|30|Fenders
+2554|20020904|29479|4|Accessories|29|Cleaners
+2322|20020909|13146|4|Accessories|31|Helmets
+741|20020924|17792|3|Clothing|21|Jerseys
+2634|20020919|11537|4|Accessories|36|Pumps
+2392|20020920|21081|4|Accessories|30|Fenders
+279|20020928|13562|4|Accessories|34|Locks
+2559|20020924|22626|4|Accessories|36|Pumps
+431|20020904|15139|4|Accessories|26|Bike Racks
+2468|20020906|28149|4|Accessories|29|Cleaners
+2628|20020924|12041|3|Clothing|18|Bib-Shorts
+2477|20021007|23007|4|Accessories|32|Hydration Packs
+1447|20021027|25778|4|Accessories|34|Locks
+683|20021016|17258|4|Accessories|26|Bike Racks
+1432|20020926|25524|4|Accessories|29|Cleaners
+1099|20020916|21877|4|Accessories|30|Fenders
+1489|20020916|26437|3|Clothing|20|Gloves
+716|20020921|17636|4|Accessories|35|Panniers
+2306|20020913|23102|3|Clothing|20|Gloves
+1008|20020923|20425|3|Clothing|24|Tights
+2457|20021011|14599|4|Accessories|35|Panniers
+582|20020930|16601|3|Clothing|21|Jerseys
+557|20021005|16402|4|Accessories|37|Tires and Tubes
+2734|20021015|17805|4|Accessories|35|Panniers
+1444|20021007|25762|4|Accessories|26|Bike Racks
+1440|20021022|25663|4|Accessories|32|Hydration Packs
+2596|20020920|12552|3|Clothing|25|Vests
+1005|20021007|20419|3|Clothing|24|Tights
+731|20020914|17746|4|Accessories|31|Helmets
+1207|20020901|23094|3|Clothing|20|Gloves
+1519|20020913|26701|3|Clothing|25|Vests
+998|20021010|20299|3|Clothing|23|Socks
+799|20021028|18296|3|Clothing|19|Caps
+2338|20021005|23735|3|Clothing|24|Tights
+2636|20021021|24732|4|Accessories|33|Lights
+2574|20021015|14766|4|Accessories|31|Helmets
+2415|20020901|20045|4|Accessories|26|Bike Racks
+1668|20020913|28354|3|Clothing|19|Caps
+1309|20021005|24167|4|Accessories|35|Panniers
+2612|20021021|29235|3|Clothing|25|Vests
+2600|20021028|12830|3|Clothing|25|Vests
+1599|20021023|27687|4|Accessories|27|Bike Stands
+1634|20020920|28092|3|Clothing|19|Caps
+1244|20020908|23416|3|Clothing|22|Shorts
+594|20021015|16679|4|Accessories|33|Lights
+675|20020910|17235|4|Accessories|37|Tires and Tubes
+2513|20021017|22690|4|Accessories|36|Pumps
+883|20021012|19278|4|Accessories|28|Bottles and Cages
+721|20021018|17709|4|Accessories|36|Pumps
+1345|20020913|24501|3|Clothing|22|Shorts
+2467|20021022|21053|3|Clothing|21|Jerseys
+1471|20021027|26176|4|Accessories|27|Bike Stands
+2459|20020909|11683|4|Accessories|37|Tires and Tubes
+1286|20021002|23730|3|Clothing|20|Gloves
+2695|20021017|18529|4|Accessories|29|Cleaners
+1025|20021003|20679|4|Accessories|37|Tires and Tubes
+2654|20020928|21622|4|Accessories|32|Hydration Packs
+706|20020902|17388|4|Accessories|33|Lights
+2671|20020921|12762|4|Accessories|35|Panniers
+2354|20021002|20125|3|Clothing|22|Shorts
+804|20020912|18299|3|Clothing|18|Bib-Shorts
+2649|20020910|16983|4|Accessories|31|Helmets
+2514|20021018|12197|4|Accessories|32|Hydration Packs
+289|20021010|13643|4|Accessories|28|Bottles and Cages
+2719|20021025|27318|4|Accessories|36|Pumps
+432|20020904|15139|4|Accessories|30|Fenders
+2516|20020906|18150|4|Accessories|27|Bike Stands
+2753|20020925|23908|3|Clothing|25|Vests
+2478|20020930|16925|4|Accessories|33|Lights
+1518|20021023|26700|3|Clothing|25|Vests
+684|20021016|17258|4|Accessories|29|Cleaners
+1453|20020926|25919|4|Accessories|32|Hydration Packs
+1637|20021002|28135|4|Accessories|32|Hydration Packs
+825|20021012|18495|4|Accessories|26|Bike Racks
+2327|20020906|19474|3|Clothing|22|Shorts
+2549|20020930|24823|3|Clothing|24|Tights
+583|20020930|16601|4|Accessories|29|Cleaners
+1266|20021028|23562|3|Clothing|24|Tights
+670|20021018|17227|3|Clothing|24|Tights
+1547|20020922|26985|3|Clothing|19|Caps
+1463|20020929|26100|3|Clothing|19|Caps
+2655|20020919|14348|3|Clothing|19|Caps
+1006|20021007|20419|4|Accessories|29|Cleaners
+784|20020917|18255|4|Accessories|32|Hydration Packs
+1228|20020925|23271|4|Accessories|35|Panniers
+1559|20020907|27130|3|Clothing|18|Bib-Shorts
+1011|20020925|20445|4|Accessories|37|Tires and Tubes
+800|20021028|18296|3|Clothing|20|Gloves
+2379|20021015|14959|4|Accessories|27|Bike Stands
+2756|20020902|21665|3|Clothing|18|Bib-Shorts
+2587|20021013|21132|3|Clothing|25|Vests
+2416|20020905|27958|4|Accessories|30|Fenders
+1694|20020925|28626|4|Accessories|26|Bike Racks
+1352|20021003|24606|3|Clothing|19|Caps
+2730|20020916|19487|3|Clothing|24|Tights
+2646|20021003|13135|4|Accessories|33|Lights
+1628|20021023|28046|4|Accessories|26|Bike Racks
+1635|20020920|28092|3|Clothing|22|Shorts
+1475|20021008|26242|3|Clothing|22|Shorts
+692|20021027|17309|3|Clothing|20|Gloves
+832|20020922|18697|3|Clothing|19|Caps
+2565|20021003|16546|4|Accessories|35|Panniers
+884|20021012|19278|4|Accessories|30|Fenders
+724|20020919|17727|3|Clothing|22|Shorts
+1346|20020913|24501|3|Clothing|25|Vests
+2479|20021026|28793|4|Accessories|32|Hydration Packs
+1612|20021022|27874|4|Accessories|35|Panniers
+2472|20020926|22546|4|Accessories|32|Hydration Packs
+1402|20020916|25116|4|Accessories|28|Bottles and Cages
+2701|20021012|12889|4|Accessories|33|Lights
+2661|20020924|20982|3|Clothing|22|Shorts
+707|20020902|17388|4|Accessories|34|Locks
+2711|20020916|13936|4|Accessories|36|Pumps
+2371|20021022|20553|4|Accessories|32|Hydration Packs
+885|20020912|19311|3|Clothing|19|Caps
+2662|20021020|21319|4|Accessories|37|Tires and Tubes
+2518|20021022|22555|3|Clothing|18|Bib-Shorts
+500|20021015|15748|3|Clothing|22|Shorts
+2759|20020924|22626|4|Accessories|30|Fenders
+523|20021009|16020|3|Clothing|18|Bib-Shorts
+2540|20020927|28442|4|Accessories|33|Lights
+592|20020923|16660|4|Accessories|30|Fenders
+2677|20021007|23007|4|Accessories|27|Bike Stands
+1614|20021006|27879|3|Clothing|22|Shorts
+745|20020901|17884|3|Clothing|21|Jerseys
+1693|20020915|28624|4|Accessories|28|Bottles and Cages
+1687|20020917|28581|4|Accessories|30|Fenders
+826|20021012|18495|4|Accessories|31|Helmets
+2440|20020905|25958|4|Accessories|28|Bottles and Cages
+2603|20020927|19426|3|Clothing|18|Bib-Shorts
+607|20021016|16705|4|Accessories|31|Helmets
+1267|20021028|23562|4|Accessories|35|Panniers
+671|20021018|17227|3|Clothing|25|Vests
+1644|20020913|28195|4|Accessories|27|Bike Stands
+1501|20021027|26527|4|Accessories|26|Bike Racks
+750|20021013|17910|4|Accessories|26|Bike Racks
+1007|20021007|20419|4|Accessories|37|Tires and Tubes
+923|20020914|19618|4|Accessories|31|Helmets
+1263|20020922|23543|4|Accessories|32|Hydration Packs
+1560|20020907|27130|3|Clothing|24|Tights
+801|20021028|18296|4|Accessories|32|Hydration Packs
+2438|20021019|28800|4|Accessories|32|Hydration Packs
+645|20021025|17045|4|Accessories|30|Fenders
+2683|20020922|24287|3|Clothing|25|Vests
+2437|20021026|25383|4|Accessories|32|Hydration Packs
+1707|20021019|28798|3|Clothing|23|Socks
+1353|20021003|24606|4|Accessories|27|Bike Stands
+2762|20021009|22874|3|Clothing|24|Tights
+610|20020918|16710|4|Accessories|26|Bike Racks
+1702|20020921|28735|3|Clothing|20|Gloves
+1636|20020920|28092|4|Accessories|36|Pumps
+1476|20021008|26242|4|Accessories|34|Locks
+693|20021027|17309|4|Accessories|34|Locks
+915|20020907|19611|3|Clothing|23|Socks
+2594|20021007|23756|3|Clothing|25|Vests
+933|20021015|19753|3|Clothing|20|Gloves
+725|20020919|17727|3|Clothing|24|Tights
+1410|20021028|25222|4|Accessories|28|Bottles and Cages
+2614|20021011|27290|4|Accessories|35|Panniers
+2317|20020924|14616|3|Clothing|19|Caps
+2486|20020923|20298|4|Accessories|33|Lights
+1428|20020903|25433|4|Accessories|30|Fenders
+595|20021015|16680|3|Clothing|20|Gloves
+2673|20020903|24069|4|Accessories|36|Pumps
+755|20020907|17922|3|Clothing|22|Shorts
+2751|20020907|24628|4|Accessories|26|Bike Racks
+2444|20020904|11210|4|Accessories|30|Fenders
+987|20020929|20235|3|Clothing|20|Gloves
+2699|20020910|11181|3|Clothing|21|Jerseys
+2531|20021019|24043|3|Clothing|21|Jerseys
+2360|20021027|29384|3|Clothing|21|Jerseys
+580|20021022|16563|3|Clothing|19|Caps
+2365|20021026|18935|4|Accessories|34|Locks
+2572|20021005|12649|3|Clothing|18|Bib-Shorts
+604|20020907|16699|4|Accessories|27|Bike Stands
+2678|20020930|16925|4|Accessories|32|Hydration Packs
+1629|20020923|28072|4|Accessories|28|Bottles and Cages
+746|20020901|17884|4|Accessories|32|Hydration Packs
+2307|20021003|14594|3|Clothing|20|Gloves
+1688|20020917|28581|4|Accessories|37|Tires and Tubes
+827|20021012|18495|4|Accessories|34|Locks
+2470|20020901|13466|4|Accessories|32|Hydration Packs
+2657|20021011|14599|4|Accessories|31|Helmets
+608|20021016|16705|4|Accessories|34|Locks
+1303|20021011|23995|3|Clothing|24|Tights
+672|20021018|17227|4|Accessories|35|Panniers
+1645|20020913|28195|4|Accessories|28|Bottles and Cages
+1502|20021027|26527|4|Accessories|28|Bottles and Cages
+751|20021013|17910|4|Accessories|30|Fenders
+1047|20021004|21000|3|Clothing|23|Socks
+941|20020930|19786|3|Clothing|19|Caps
+1282|20020917|23680|3|Clothing|19|Caps
+1588|20021002|27493|4|Accessories|35|Panniers
+844|20020910|18736|3|Clothing|18|Bib-Shorts
+2488|20021011|13898|4|Accessories|26|Bike Racks
+646|20021025|17045|4|Accessories|37|Tires and Tubes
+2750|20021009|29359|4|Accessories|29|Cleaners
+2466|20021019|17160|4|Accessories|26|Bike Racks
+1708|20021019|28798|3|Clothing|24|Tights
+1354|20021003|24606|4|Accessories|31|Helmets
+647|20021026|17048|3|Clothing|21|Jerseys
+611|20020918|16710|4|Accessories|37|Tires and Tubes
+1703|20020921|28735|4|Accessories|34|Locks
+2382|20020921|14135|4|Accessories|33|Lights
+1517|20020919|26686|4|Accessories|31|Helmets
+824|20020902|18491|3|Clothing|21|Jerseys
+916|20020907|19611|4|Accessories|28|Bottles and Cages
+2619|20020921|15650|3|Clothing|21|Jerseys
+935|20021025|19765|4|Accessories|35|Panniers
+1411|20021028|25222|4|Accessories|34|Locks
+2653|20021010|15501|3|Clothing|24|Tights
+2399|20021026|22814|4|Accessories|30|Fenders
+2493|20021027|16591|4|Accessories|35|Panniers
+1470|20020906|26165|3|Clothing|18|Bib-Shorts
+596|20021015|16680|4|Accessories|31|Helmets
+2732|20020923|27126|3|Clothing|24|Tights
+868|20020916|19072|4|Accessories|36|Pumps
+2754|20020904|29479|3|Clothing|19|Caps
+2464|20020906|27002|4|Accessories|36|Pumps
+988|20020929|20235|4|Accessories|27|Bike Stands
+2733|20021006|28471|4|Accessories|35|Panniers
+2555|20020918|20824|4|Accessories|28|Bottles and Cages
+2430|20021028|28694|4|Accessories|30|Fenders
+586|20021024|16632|4|Accessories|33|Lights
+2410|20020923|13577|4|Accessories|30|Fenders
+2622|20020916|22962|4|Accessories|32|Hydration Packs
+605|20020907|16699|4|Accessories|29|Cleaners
+863|20021008|18971|4|Accessories|27|Bike Stands
+1630|20020923|28072|4|Accessories|30|Fenders
+932|20021024|19752|3|Clothing|19|Caps
+2368|20021024|23983|3|Clothing|19|Caps
+2378|20020918|12510|4|Accessories|36|Pumps
+879|20020914|19193|3|Clothing|23|Socks
+2505|20020909|24414|3|Clothing|19|Caps
+2749|20020930|24823|3|Clothing|23|Socks
+626|20021005|16837|3|Clothing|18|Bib-Shorts
+1347|20020925|24504|3|Clothing|22|Shorts
+805|20020916|18300|4|Accessories|30|Fenders
+1646|20020913|28195|4|Accessories|31|Helmets
+1528|20020928|26764|4|Accessories|33|Lights
+921|20020921|19617|3|Clothing|25|Vests
+1068|20021010|21366|3|Clothing|21|Jerseys
+942|20020930|19786|4|Accessories|27|Bike Stands
+1320|20021028|24270|4|Accessories|37|Tires and Tubes
+1631|20021013|28079|4|Accessories|26|Bike Racks
+845|20020910|18736|4|Accessories|35|Panniers
+2579|20021015|14959|4|Accessories|36|Pumps
+669|20021012|17216|3|Clothing|18|Bib-Shorts
+2763|20020926|12908|3|Clothing|23|Socks
+2496|20020916|19867|3|Clothing|23|Socks
+1709|20021019|28798|4|Accessories|29|Cleaners
+1536|20020911|26860|4|Accessories|29|Cleaners
+831|20020919|18691|4|Accessories|33|Lights
+673|20020902|17231|4|Accessories|32|Hydration Packs
+2324|20021004|19179|4|Accessories|35|Panniers
+2475|20020915|15725|4|Accessories|32|Hydration Packs
+1523|20021008|26741|3|Clothing|19|Caps
+947|20020919|19826|4|Accessories|29|Cleaners
+917|20020907|19611|4|Accessories|31|Helmets
+2713|20021017|22690|3|Clothing|20|Gloves
+1084|20020916|21671|3|Clothing|21|Jerseys
+1461|20020915|26072|4|Accessories|30|Fenders
+2667|20021022|21053|4|Accessories|28|Bottles and Cages
+2476|20021005|27261|4|Accessories|32|Hydration Packs
+2583|20021010|14144|3|Clothing|25|Vests
+2313|20020929|19155|3|Clothing|20|Gloves
+699|20021022|17329|4|Accessories|26|Bike Racks
+2744|20020902|16153|3|Clothing|22|Shorts
+1065|20021003|21295|3|Clothing|21|Jerseys
+726|20021029|17728|4|Accessories|26|Bike Racks
+2571|20021022|20553|3|Clothing|20|Gloves
+989|20020929|20235|4|Accessories|35|Panniers
+765|20020928|18186|4|Accessories|34|Locks
+2570|20020918|26871|3|Clothing|21|Jerseys
+2500|20021013|11807|3|Clothing|18|Bib-Shorts
+712|20021002|17558|4|Accessories|28|Bottles and Cages
+2610|20020923|13577|4|Accessories|34|Locks
+2668|20020906|28149|3|Clothing|19|Caps
+738|20021026|17786|3|Clothing|25|Vests
+864|20021008|18971|4|Accessories|32|Hydration Packs
+2305|20020906|11965|3|Clothing|20|Gloves
+2401|20020906|27926|4|Accessories|30|Fenders
+2423|20021001|14453|4|Accessories|28|Bottles and Cages
+880|20020914|19193|4|Accessories|35|Panniers
+2507|20021016|13761|3|Clothing|25|Vests
+631|20021014|16902|3|Clothing|20|Gloves
+627|20021005|16837|3|Clothing|19|Caps
+1544|20020927|26967|3|Clothing|25|Vests
+808|20020917|18308|3|Clothing|21|Jerseys
+1655|20020924|28302|3|Clothing|22|Shorts
+1564|20021012|27259|3|Clothing|21|Jerseys
+922|20020921|19617|4|Accessories|33|Lights
+1069|20021010|21366|3|Clothing|25|Vests
+943|20020930|19786|4|Accessories|28|Bottles and Cages
+1348|20020902|24506|4|Accessories|33|Lights
+1632|20021013|28079|4|Accessories|33|Lights
+911|20021013|19609|4|Accessories|27|Bike Stands
+2638|20021019|28800|3|Clothing|22|Shorts
+736|20020901|17760|4|Accessories|33|Lights
+770|20021002|18206|3|Clothing|21|Jerseys
+2509|20021018|22992|3|Clothing|18|Bib-Shorts
+2405|20021012|12254|4|Accessories|30|Fenders
+1537|20020911|26860|4|Accessories|34|Locks
+830|20020924|18636|3|Clothing|21|Jerseys
+757|20020915|17960|3|Clothing|24|Tights
+2484|20020913|23880|3|Clothing|21|Jerseys
+1530|20021025|26773|4|Accessories|30|Fenders
+1052|20021022|21166|4|Accessories|26|Bike Racks
+918|20020907|19611|4|Accessories|36|Pumps
+621|20021008|16745|3|Clothing|22|Shorts
+1085|20020916|21671|4|Accessories|26|Bike Racks
+1626|20021009|28045|4|Accessories|29|Cleaners
+2679|20021026|28793|3|Clothing|19|Caps
+2527|20020910|22831|4|Accessories|36|Pumps
+2611|20021007|15419|4|Accessories|36|Pumps
+2537|20021026|15925|3|Clothing|19|Caps
+858|20021027|18902|3|Clothing|18|Bib-Shorts
+2764|20021023|28790|4|Accessories|26|Bike Racks
+1066|20021003|21295|4|Accessories|37|Tires and Tubes
+727|20021029|17728|4|Accessories|36|Pumps
+2644|20020904|11210|3|Clothing|19|Caps
+836|20021029|18711|3|Clothing|24|Tights
+2592|20020920|21081|3|Clothing|25|Vests
+2630|20021028|28694|4|Accessories|26|Bike Racks
+1013|20020922|20492|3|Clothing|23|Socks
+579|20021024|16562|3|Clothing|25|Vests
+2716|20020906|18150|3|Clothing|25|Vests
+739|20021026|17786|4|Accessories|34|Locks
+912|20021001|19610|4|Accessories|32|Hydration Packs
+2504|20021009|20070|4|Accessories|35|Panniers
+2456|20021012|15557|4|Accessories|36|Pumps
+2502|20020909|16428|4|Accessories|26|Bike Racks
+951|20021011|19862|3|Clothing|21|Jerseys
+2510|20020927|12601|4|Accessories|30|Fenders
+632|20021014|16902|4|Accessories|30|Fenders
+756|20020903|17951|4|Accessories|36|Pumps
+2356|20020913|15887|4|Accessories|31|Helmets
+809|20020917|18308|3|Clothing|23|Socks
+2350|20021004|26407|3|Clothing|21|Jerseys
+1565|20021012|27259|3|Clothing|24|Tights
+997|20021014|20264|3|Clothing|21|Jerseys
+1080|20020925|21562|3|Clothing|18|Bib-Shorts
+1349|20020902|24506|4|Accessories|35|Panniers
+1633|20021013|28079|4|Accessories|34|Locks
+936|20020924|19772|3|Clothing|18|Bib-Shorts
+2688|20021011|13898|3|Clothing|22|Shorts
+737|20020901|17760|4|Accessories|35|Panniers
+771|20021002|18206|4|Accessories|26|Bike Racks
+2536|20021014|17938|4|Accessories|29|Cleaners
+2429|20020903|28674|4|Accessories|27|Bike Stands
+1563|20020925|27180|3|Clothing|20|Gloves
+1083|20021007|21666|3|Clothing|21|Jerseys
+791|20020928|18273|4|Accessories|32|Hydration Packs
+2485|20020919|16769|4|Accessories|27|Bike Stands
+1578|20020928|27366|3|Clothing|18|Bib-Shorts
+1053|20021022|21166|4|Accessories|35|Panniers
+996|20020912|20254|3|Clothing|23|Socks
+658|20020924|17077|4|Accessories|33|Lights
+1133|20021004|22198|3|Clothing|25|Vests
+1627|20021009|28045|4|Accessories|37|Tires and Tubes
+667|20020906|17203|3|Clothing|22|Shorts
+2528|20021025|28395|4|Accessories|27|Bike Stands
+2659|20020909|11683|3|Clothing|21|Jerseys
+687|20020911|17284|4|Accessories|34|Locks
+972|20020901|20153|3|Clothing|19|Caps
+636|20021025|16938|3|Clothing|20|Gloves
+743|20021005|17882|3|Clothing|18|Bib-Shorts
+2664|20020906|27002|4|Accessories|33|Lights
+850|20021005|18841|3|Clothing|22|Shorts
+2714|20021018|12197|3|Clothing|22|Shorts
+2700|20021013|11807|4|Accessories|32|Hydration Packs
+1046|20020913|20997|4|Accessories|27|Bike Stands
+597|20021026|16682|3|Clothing|18|Bib-Shorts
+2740|20020927|28442|3|Clothing|19|Caps
+740|20021026|17786|4|Accessories|36|Pumps
+913|20021001|19610|4|Accessories|35|Panniers
+2515|20020918|18766|3|Clothing|21|Jerseys
+2557|20020913|21072|4|Accessories|27|Bike Stands
+2578|20020918|12510|3|Clothing|20|Gloves
+952|20021011|19862|4|Accessories|37|Tires and Tubes
+2543|20020909|28132|3|Clothing|24|Tights
+633|20021014|16902|4|Accessories|34|Locks
+910|20020909|19608|4|Accessories|28|Bottles and Cages
+2380|20021013|27772|3|Clothing|23|Socks
+898|20020926|19555|3|Clothing|19|Caps
+2384|20020901|14923|4|Accessories|28|Bottles and Cages
+1566|20021012|27259|4|Accessories|27|Bike Stands
+1110|20020908|21972|3|Clothing|18|Bib-Shorts
+1361|20020908|24714|3|Clothing|22|Shorts
+1643|20020901|28177|4|Accessories|28|Bottles and Cages
+1098|20021017|21873|4|Accessories|28|Bottles and Cages
+577|20020901|16553|3|Clothing|18|Bib-Shorts
+833|20021023|18702|3|Clothing|19|Caps
+772|20021002|18206|4|Accessories|36|Pumps
+2615|20020901|20045|3|Clothing|25|Vests
+2605|20021012|12254|4|Accessories|29|Cleaners
+1667|20020909|28352|4|Accessories|30|Fenders
+876|20021010|19101|4|Accessories|29|Cleaners
+2492|20021023|14184|4|Accessories|27|Bike Stands
+1602|20021011|27698|4|Accessories|27|Bike Stands
+1122|20021011|22006|4|Accessories|34|Locks
+1032|20021020|20798|4|Accessories|31|Helmets
+822|20020922|18482|3|Clothing|20|Gloves
+1134|20021004|22198|4|Accessories|30|Fenders
+1682|20021018|28534|3|Clothing|18|Bib-Shorts
+668|20020906|17203|4|Accessories|29|Cleaners
+2599|20021026|22814|3|Clothing|25|Vests
+2672|20020926|22546|4|Accessories|30|Fenders
+703|20021021|17353|4|Accessories|32|Hydration Packs
+973|20020901|20153|4|Accessories|30|Fenders
+637|20021025|16938|4|Accessories|29|Cleaners
+744|20021005|17882|4|Accessories|36|Pumps
+643|20021014|16995|3|Clothing|18|Bib-Shorts
+851|20021005|18841|4|Accessories|36|Pumps
+2718|20021022|22555|4|Accessories|26|Bike Racks
+630|20021021|16876|3|Clothing|24|Tights
+1074|20021008|21379|4|Accessories|28|Bottles and Cages
+598|20021026|16682|4|Accessories|37|Tires and Tubes
+788|20021007|18263|3|Clothing|20|Gloves
+914|20021001|19610|4|Accessories|36|Pumps
+2545|20020926|26995|3|Clothing|25|Vests
+2601|20020906|27926|3|Clothing|25|Vests
+2702|20020909|16428|4|Accessories|29|Cleaners
+980|20020915|20213|3|Clothing|22|Shorts
+2568|20021026|26913|3|Clothing|25|Vests
+690|20021029|17300|3|Clothing|25|Vests
+929|20020915|19667|3|Clothing|19|Caps
+2393|20020908|22377|4|Accessories|30|Fenders
+899|20020926|19555|4|Accessories|26|Bike Racks
+2404|20021010|13768|4|Accessories|30|Fenders
+1583|20020924|27415|3|Clothing|18|Bib-Shorts
+1111|20020908|21972|4|Accessories|26|Bike Racks
+1362|20020908|24714|4|Accessories|29|Cleaners
+2326|20020929|14708|4|Accessories|36|Pumps
+578|20020901|16553|4|Accessories|27|Bike Stands
+908|20021023|19592|3|Clothing|23|Socks
+896|20020915|19419|4|Accessories|30|Fenders
+2616|20020905|27958|3|Clothing|23|Socks
+2629|20020903|28674|4|Accessories|32|Hydration Packs
+2320|20020912|20569|4|Accessories|34|Locks
+877|20021010|19101|4|Accessories|34|Locks
+2560|20020904|22526|4|Accessories|28|Bottles and Cages
+1700|20021024|28716|3|Clothing|25|Vests
+1130|20021019|22169|4|Accessories|32|Hydration Packs
+1081|20020908|21564|3|Clothing|21|Jerseys
+823|20020919|18484|4|Accessories|35|Panniers
+1135|20021004|22198|4|Accessories|32|Hydration Packs
+1683|20021018|28534|4|Accessories|36|Pumps
+702|20020929|17351|4|Accessories|37|Tires and Tubes
+2676|20021005|27261|4|Accessories|27|Bike Stands
+2686|20020923|20298|4|Accessories|37|Tires and Tubes
+704|20021021|17353|4|Accessories|37|Tires and Tubes
+1101|20020904|21891|4|Accessories|28|Bottles and Cages
+685|20021016|17263|4|Accessories|31|Helmets
+764|20020903|18168|4|Accessories|35|Panniers
+644|20021014|16995|4|Accessories|30|Fenders
+852|20021005|18841|4|Accessories|37|Tires and Tubes
+2755|20020918|20824|3|Clothing|19|Caps
+722|20021016|17725|3|Clothing|20|Gloves
+795|20021028|18288|4|Accessories|26|Bike Racks
+789|20021007|18263|3|Clothing|22|Shorts
+999|20021021|20312|4|Accessories|30|Fenders
+2704|20021009|20070|4|Accessories|28|Bottles and Cages
+2656|20021012|15557|4|Accessories|26|Bike Racks
+606|20021001|16704|4|Accessories|29|Cleaners
+981|20020915|20213|4|Accessories|29|Cleaners
+2640|20020905|25958|4|Accessories|34|Locks
+691|20021029|17300|4|Accessories|28|Bottles and Cages
+930|20020915|19667|4|Accessories|28|Bottles and Cages
+2402|20021016|24116|4|Accessories|30|Fenders
+906|20021029|19581|3|Clothing|18|Bib-Shorts
+2406|20020903|12557|4|Accessories|30|Fenders
+1584|20020924|27415|4|Accessories|35|Panniers
+1112|20020908|21972|4|Accessories|28|Bottles and Cages
+1478|20021011|26318|4|Accessories|27|Bike Stands
+2341|20021001|29056|3|Clothing|22|Shorts
+686|20020911|17279|4|Accessories|26|Bike Racks
+928|20020905|19651|3|Clothing|18|Bib-Shorts
+1107|20020902|21962|4|Accessories|31|Helmets
+2637|20021026|25383|3|Clothing|21|Jerseys
+599|20020904|16689|3|Clothing|20|Gloves
+2333|20020927|15827|4|Accessories|33|Lights
+1139|20021001|22210|4|Accessories|31|Helmets
+2567|20020921|28475|4|Accessories|27|Bike Stands
+1701|20021024|28716|4|Accessories|31|Helmets
+1131|20021019|22169|4|Accessories|35|Panniers
+1082|20021017|21664|3|Clothing|20|Gloves
+954|20020927|19912|3|Clothing|20|Gloves
+2323|20021019|25607|4|Accessories|33|Lights
+747|20020926|17895|3|Clothing|18|Bib-Shorts
+2727|20020910|22831|3|Clothing|24|Tights
+2693|20021027|16591|3|Clothing|22|Shorts
+766|20020924|18196|3|Clothing|22|Shorts
+1108|20020917|21966|3|Clothing|23|Socks
+828|20021022|18629|3|Clothing|20|Gloves
+768|20020926|18202|3|Clothing|20|Gloves
+760|20021010|18116|3|Clothing|18|Bib-Shorts
+1061|20021015|21224|4|Accessories|34|Locks
+638|20020903|16945|4|Accessories|27|Bike Stands
+723|20021016|17725|4|Accessories|31|Helmets
+902|20021013|19561|3|Clothing|19|Caps
+872|20020902|19094|3|Clothing|25|Vests
+1000|20021021|20312|4|Accessories|36|Pumps
+2715|20020918|18766|4|Accessories|37|Tires and Tubes
+2757|20020913|21072|3|Clothing|24|Tights
+657|20021026|17075|4|Accessories|37|Tires and Tubes
+982|20020915|20213|4|Accessories|32|Hydration Packs
+2670|20020901|13466|4|Accessories|27|Bike Stands
+742|20021027|17795|4|Accessories|33|Lights
+931|20020915|19667|4|Accessories|37|Tires and Tubes
+2451|20020923|19560|3|Clothing|20|Gloves
+907|20021029|19581|3|Clothing|24|Tights
+2431|20021009|13461|3|Clothing|20|Gloves
+2373|20021023|12639|3|Clothing|25|Vests
+1113|20020908|21972|4|Accessories|29|Cleaners
+1487|20020928|26406|4|Accessories|34|Locks
+2351|20021024|18210|4|Accessories|35|Panniers
+811|20020914|18329|3|Clothing|18|Bib-Shorts
+1039|20020909|20899|3|Clothing|22|Shorts
+1125|20020926|22032|4|Accessories|26|Bike Racks
+2666|20021019|17160|4|Accessories|35|Panniers
+600|20020904|16689|4|Accessories|32|Hydration Packs
+2407|20021022|11420|4|Accessories|30|Fenders
+2582|20020921|14135|4|Accessories|37|Tires and Tubes
+2489|20021021|23567|4|Accessories|27|Bike Stands
+955|20020927|19912|4|Accessories|29|Cleaners
+2335|20021006|15305|4|Accessories|33|Lights
+748|20020926|17895|4|Accessories|27|Bike Stands
+2728|20021025|28395|4|Accessories|28|Bottles and Cages
+840|20020913|18727|3|Clothing|18|Bib-Shorts
+815|20020911|18391|4|Accessories|28|Bottles and Cages
+1109|20020917|21966|4|Accessories|37|Tires and Tubes
+829|20021022|18629|4|Accessories|35|Panniers
+816|20020912|18447|3|Clothing|19|Caps
+774|20020917|18214|3|Clothing|19|Caps
+1070|20020904|21370|4|Accessories|37|Tires and Tubes
+639|20020903|16945|4|Accessories|28|Bottles and Cages
+732|20020919|17753|4|Accessories|31|Helmets
+1035|20021015|20828|4|Accessories|26|Bike Racks
+873|20020902|19094|4|Accessories|28|Bottles and Cages
+1140|20020930|22214|3|Clothing|22|Shorts
+2745|20020926|26995|3|Clothing|21|Jerseys
+622|20021007|16754|3|Clothing|21|Jerseys
+797|20020905|18292|4|Accessories|30|Fenders
+983|20020915|20213|4|Accessories|34|Locks
+2705|20020909|24414|4|Accessories|37|Tires and Tubes
+859|20020926|18944|4|Accessories|31|Helmets
+1054|20020927|21176|4|Accessories|28|Bottles and Cages
+2481|20020902|18761|3|Clothing|22|Shorts
+948|20021029|19839|3|Clothing|22|Shorts
+2542|20021024|19494|4|Accessories|29|Cleaners
+2442|20020918|14399|3|Clothing|23|Socks
+1525|20021021|26758|4|Accessories|30|Fenders
+2381|20021005|13531|4|Accessories|32|Hydration Packs
+812|20020914|18329|3|Clothing|24|Tights
+1126|20020926|22032|4|Accessories|36|Pumps
+2696|20020916|19867|3|Clothing|18|Bib-Shorts
+601|20020904|16689|4|Accessories|34|Locks
+2418|20021015|22827|4|Accessories|26|Bike Racks
+2675|20020915|15725|4|Accessories|36|Pumps
+2552|20021028|21382|4|Accessories|33|Lights
+1037|20020925|20835|3|Clothing|20|Gloves
+2395|20021016|25539|4|Accessories|30|Fenders
+767|20020906|18198|3|Clothing|18|Bib-Shorts
+584|20020907|16610|3|Clothing|23|Socks
+841|20020913|18727|4|Accessories|34|Locks
+944|20020920|19798|3|Clothing|21|Jerseys
+888|20020902|19345|3|Clothing|20|Gloves
+860|20021018|18950|4|Accessories|29|Cleaners
+775|20020917|18214|3|Clothing|21|Jerseys
+640|20020903|16945|4|Accessories|32|Hydration Packs
+818|20020909|18458|3|Clothing|20|Gloves
+1036|20021015|20828|4|Accessories|36|Pumps
+874|20020902|19094|4|Accessories|32|Hydration Packs
+1141|20020930|22214|4|Accessories|26|Bike Racks
+628|20020920|16873|3|Clothing|19|Caps
+623|20021007|16754|4|Accessories|37|Tires and Tubes
+798|20020905|18292|4|Accessories|35|Panniers
+2707|20021016|13761|3|Clothing|23|Socks
+924|20020926|19620|4|Accessories|29|Cleaners
+1055|20020927|21176|4|Accessories|32|Hydration Packs
+2517|20021019|20046|3|Clothing|25|Vests
+949|20021029|19839|4|Accessories|33|Lights
+2584|20020901|14923|3|Clothing|25|Vests
+2573|20021023|12639|3|Clothing|24|Tights
+1526|20021021|26758|4|Accessories|33|Lights
+2391|20020903|12631|4|Accessories|30|Fenders
+945|20021026|19801|3|Clothing|21|Jerseys
+2709|20021018|22992|3|Clothing|23|Socks
+634|20021028|16921|4|Accessories|32|Hydration Packs
+2480|20020918|11905|4|Accessories|27|Bike Stands
+2684|20020913|23880|4|Accessories|35|Panniers
+2689|20021021|23567|4|Accessories|29|Cleaners
+2487|20021023|18809|4|Accessories|37|Tires and Tubes
+1120|20020929|22005|3|Clothing|20|Gloves
+585|20020907|16610|4|Accessories|29|Cleaners
+842|20020918|18731|3|Clothing|23|Socks
+970|20021004|19970|3|Clothing|19|Caps
+889|20020902|19345|4|Accessories|35|Panniers
+861|20021018|18950|4|Accessories|37|Tires and Tubes
+776|20020917|18214|4|Accessories|29|Cleaners
+662|20020905|17115|3|Clothing|18|Bib-Shorts
+819|20020909|18458|4|Accessories|29|Cleaners
+629|20020920|16873|4|Accessories|34|Locks
+790|20021021|18264|4|Accessories|26|Bike Racks
+856|20020928|18882|4|Accessories|34|Locks
+2768|20021026|26913|4|Accessories|36|Pumps
+937|20021025|19782|3|Clothing|18|Bib-Shorts
+2561|20020906|25025|4|Accessories|29|Cleaners
+950|20021029|19839|4|Accessories|35|Panniers
+2606|20020903|12557|4|Accessories|31|Helmets
+2642|20020918|14399|3|Clothing|25|Vests
+1534|20021027|26847|3|Clothing|18|Bib-Shorts
+2421|20021014|14779|4|Accessories|34|Locks
+946|20021026|19801|4|Accessories|28|Bottles and Cages
+717|20021022|17655|4|Accessories|35|Panniers
+802|20020913|18297|3|Clothing|18|Bib-Shorts
+2607|20021022|11420|3|Clothing|21|Jerseys
+2685|20020919|16769|4|Accessories|35|Panniers
+2752|20021028|21382|4|Accessories|30|Fenders
+2498|20021013|28143|4|Accessories|35|Panniers
+1121|20020929|22005|4|Accessories|37|Tires and Tubes
+694|20020925|17316|3|Clothing|24|Tights
+865|20021006|19047|3|Clothing|18|Bib-Shorts
+1017|20021010|20585|3|Clothing|19|Caps
+1018|20020925|20616|3|Clothing|21|Jerseys
+965|20020921|19961|3|Clothing|19|Caps
+886|20020903|19339|3|Clothing|20|Gloves
+663|20020905|17115|3|Clothing|22|Shorts
+958|20020921|19948|4|Accessories|28|Bottles and Cages
+700|20021016|17331|4|Accessories|26|Bike Racks
+792|20020908|18281|3|Clothing|23|Socks
+857|20020928|18882|4|Accessories|36|Pumps
+641|20020909|16964|4|Accessories|26|Bike Racks
+938|20021025|19782|3|Clothing|19|Caps
+2580|20021013|27772|4|Accessories|36|Pumps
+1012|20020903|20460|3|Clothing|25|Vests
+2631|20021009|13461|4|Accessories|26|Bike Racks
+615|20020909|16717|4|Accessories|31|Helmets
+1535|20021027|26847|3|Clothing|24|Tights
+2433|20021010|25860|4|Accessories|32|Hydration Packs
+1093|20020919|21815|3|Clothing|19|Caps
+777|20021016|18243|3|Clothing|18|Bib-Shorts
+803|20020913|18297|4|Accessories|35|Panniers
+2618|20021015|22827|4|Accessories|31|Helmets
+2692|20021023|14184|4|Accessories|26|Bike Racks
+761|20020911|18135|4|Accessories|28|Bottles and Cages
+2524|20020916|19367|4|Accessories|37|Tires and Tubes
+926|20020917|19631|4|Accessories|33|Lights
+866|20021006|19047|4|Accessories|28|Bottles and Cages
+1123|20021002|22020|4|Accessories|29|Cleaners
+1019|20020925|20616|4|Accessories|35|Panniers
+966|20020921|19961|4|Accessories|30|Fenders
+887|20020903|19339|4|Accessories|36|Pumps
+664|20020905|17115|4|Accessories|29|Cleaners
+977|20020909|20158|3|Clothing|19|Caps
+701|20021016|17331|4|Accessories|35|Panniers
+793|20020908|18281|3|Clothing|25|Vests
+1015|20020920|20546|4|Accessories|27|Bike Stands
+642|20020909|16964|4|Accessories|31|Helmets
+939|20021025|19782|3|Clothing|21|Jerseys
+2593|20020908|22377|3|Clothing|25|Vests
+1016|20020930|20562|4|Accessories|34|Locks
+2742|20021024|19494|3|Clothing|24|Tights
+616|20020909|16717|4|Accessories|37|Tires and Tubes
+1549|20020913|27099|3|Clothing|24|Tights
+2546|20020925|15070|3|Clothing|22|Shorts
+1094|20020919|21815|4|Accessories|30|Fenders
+963|20021006|19955|4|Accessories|37|Tires and Tubes
+853|20020926|18855|3|Clothing|22|Shorts
+576|20021020|16551|3|Clothing|18|Bib-Shorts
+2760|20020904|22526|3|Clothing|18|Bib-Shorts
+773|20021016|18209|4|Accessories|34|Locks
+2595|20021016|25539|3|Clothing|25|Vests
+927|20020917|19631|4|Accessories|37|Tires and Tubes
+959|20020930|19952|4|Accessories|31|Helmets
+1124|20021002|22020|4|Accessories|32|Hydration Packs
+1020|20020925|20616|4|Accessories|37|Tires and Tubes
+967|20020921|19961|4|Accessories|31|Helmets
+925|20020909|19621|4|Accessories|35|Panniers
+862|20021024|18968|4|Accessories|26|Bike Racks
+978|20020909|20158|4|Accessories|28|Bottles and Cages
+752|20021022|17911|4|Accessories|27|Bike Stands
+794|20020908|18281|4|Accessories|29|Cleaners
+1034|20020922|20820|3|Clothing|23|Socks
+659|20020912|17078|4|Accessories|37|Tires and Tubes
+1009|20021011|20429|3|Clothing|24|Tights
+2602|20021016|24116|3|Clothing|25|Vests
+1056|20021022|21181|4|Accessories|26|Bike Racks
+648|20021007|17050|3|Clothing|24|Tights
+769|20020918|18203|4|Accessories|33|Lights
+1550|20020913|27099|4|Accessories|26|Bike Racks
+2581|20021005|13531|3|Clothing|23|Socks
+1129|20021029|22167|3|Clothing|22|Shorts
+968|20020920|19968|3|Clothing|19|Caps
+892|20021022|19382|3|Clothing|23|Socks
+779|20021014|18250|3|Clothing|22|Shorts
+2767|20020921|28475|4|Accessories|36|Pumps
+867|20020918|19066|4|Accessories|29|Cleaners
+2687|20021023|18809|4|Accessories|29|Cleaners
+1144|20020914|22265|3|Clothing|24|Tights
+1029|20020913|20716|3|Clothing|19|Caps
+1067|20020917|21359|4|Accessories|28|Bottles and Cages
+960|20021002|19954|3|Clothing|19|Caps
+869|20020901|19076|4|Accessories|29|Cleaners
+979|20020909|20158|4|Accessories|29|Cleaners
+753|20021022|17911|4|Accessories|34|Locks
+796|20020929|18289|3|Clothing|23|Socks
+1040|20021004|20916|3|Clothing|25|Vests
+895|20021004|19418|4|Accessories|29|Cleaners
+1010|20021011|20429|4|Accessories|29|Cleaners
+2651|20020923|19560|3|Clothing|22|Shorts
+1077|20020922|21558|4|Accessories|31|Helmets
+649|20021007|17050|4|Accessories|30|Fenders
+810|20020905|18317|3|Clothing|21|Jerseys
+1551|20020913|27099|4|Accessories|34|Locks
+2591|20020903|12631|3|Clothing|25|Vests
+969|20020920|19968|4|Accessories|36|Pumps
+893|20021022|19382|4|Accessories|37|Tires and Tubes
+1059|20020902|21219|4|Accessories|37|Tires and Tubes
+602|20020913|16692|4|Accessories|32|Hydration Packs
+897|20020929|19465|3|Clothing|19|Caps
+2698|20021013|28143|4|Accessories|37|Tires and Tubes
+1030|20020913|20716|4|Accessories|35|Panniers
+1092|20020925|21752|4|Accessories|31|Helmets
+961|20021002|19954|3|Clothing|23|Socks
+920|20020914|19615|3|Clothing|25|Vests
+1100|20020922|21890|4|Accessories|34|Locks
+754|20021022|17911|4|Accessories|35|Panniers
+820|20021025|18469|4|Accessories|31|Helmets
+953|20021007|19870|4|Accessories|36|Pumps
+1021|20021004|20627|3|Clothing|21|Jerseys
+2681|20020902|18761|4|Accessories|29|Cleaners
+650|20021007|17050|4|Accessories|31|Helmets
+1023|20021008|20628|4|Accessories|26|Bike Racks
+1656|20020903|28303|4|Accessories|27|Bike Stands
+2621|20021014|14779|3|Clothing|23|Socks
+984|20020909|20222|3|Clothing|19|Caps
+964|20021015|19960|4|Accessories|33|Lights
+603|20020913|16692|4|Accessories|33|Lights
+909|20020924|19597|4|Accessories|37|Tires and Tubes
+2724|20020916|19367|4|Accessories|29|Cleaners
+1031|20021017|20740|4|Accessories|37|Tires and Tubes
+962|20021002|19954|3|Clothing|25|Vests
+1050|20021010|21148|3|Clothing|19|Caps
+1106|20021023|21957|4|Accessories|30|Fenders
+781|20020908|18253|3|Clothing|25|Vests
+821|20021025|18469|4|Accessories|32|Hydration Packs
+1097|20021008|21868|3|Clothing|22|Shorts
+1022|20021004|20627|3|Clothing|24|Tights
+2717|20021019|20046|4|Accessories|29|Cleaners
+749|20020910|17901|4|Accessories|29|Cleaners
+2319|20021003|19525|4|Accessories|33|Lights
+2633|20021010|25860|3|Clothing|20|Gloves
+985|20020909|20222|4|Accessories|29|Cleaners
+1042|20020923|20943|3|Clothing|18|Bib-Shorts
+624|20021009|16828|3|Clothing|20|Gloves
+1004|20021012|20417|3|Clothing|24|Tights
+612|20021009|16712|3|Clothing|20|Gloves
+992|20020917|20241|4|Accessories|33|Lights
+1051|20021010|21148|4|Accessories|30|Fenders
+1132|20021008|22196|4|Accessories|34|Locks
+782|20020908|18253|4|Accessories|34|Locks
+993|20021020|20245|4|Accessories|36|Pumps
+1137|20021014|22201|3|Clothing|24|Tights
+2761|20020906|25025|3|Clothing|20|Gloves
+762|20020916|18154|3|Clothing|18|Bib-Shorts
+2355|20021001|11735|4|Accessories|35|Panniers
+2746|20020925|15070|4|Accessories|28|Bottles and Cages
+1078|20021004|21560|4|Accessories|30|Fenders
+1043|20020923|20943|4|Accessories|37|Tires and Tubes
+625|20021009|16828|4|Accessories|34|Locks
+613|20021009|16712|3|Clothing|25|Vests
+1073|20021023|21377|4|Accessories|37|Tires and Tubes
+1114|20020902|21974|3|Clothing|22|Shorts
+783|20020908|18253|4|Accessories|35|Panniers
+994|20021020|20245|4|Accessories|37|Tires and Tubes
+635|20021022|16928|4|Accessories|30|Fenders
+813|20021014|18334|4|Accessories|31|Helmets
+2366|20021028|13763|3|Clothing|21|Jerseys
+854|20021005|18871|3|Clothing|23|Socks
+1079|20021004|21560|4|Accessories|32|Hydration Packs
+1086|20021023|21681|3|Clothing|23|Socks
+806|20021022|18306|4|Accessories|29|Cleaners
+614|20021009|16712|4|Accessories|35|Panniers
+1076|20021019|21555|4|Accessories|26|Bike Racks
+870|20020930|19090|3|Clothing|19|Caps
+1001|20021024|20318|3|Clothing|24|Tights
+679|20020920|17246|3|Clothing|19|Caps
+890|20021003|19369|3|Clothing|21|Jerseys
+2458|20020910|25604|3|Clothing|20|Gloves
+855|20021005|18871|4|Accessories|36|Pumps
+1089|20021017|21726|4|Accessories|27|Bike Stands
+1118|20021018|22004|4|Accessories|29|Cleaners
+807|20021022|18306|4|Accessories|31|Helmets
+617|20020901|16743|3|Clothing|21|Jerseys
+1102|20021008|21896|3|Clothing|22|Shorts
+871|20020930|19090|4|Accessories|30|Fenders
+1002|20021024|20318|4|Accessories|34|Locks
+680|20020920|17246|4|Accessories|27|Bike Stands
+891|20021003|19369|3|Clothing|25|Vests
+2521|20021011|13672|4|Accessories|30|Fenders
+956|20020909|19944|4|Accessories|28|Bottles and Cages
+1090|20021017|21726|4|Accessories|32|Hydration Packs
+1119|20021018|22004|4|Accessories|31|Helmets
+817|20020918|18451|3|Clothing|20|Gloves
+618|20020901|16743|3|Clothing|23|Socks
+1103|20021008|21896|4|Accessories|28|Bottles and Cages
+1057|20021019|21202|3|Clothing|24|Tights
+681|20020920|17246|4|Accessories|34|Locks
+900|20021015|19559|3|Clothing|23|Socks
+2525|20021007|27122|4|Accessories|35|Panniers
+957|20020909|19944|4|Accessories|31|Helmets
+1091|20021017|21726|4|Accessories|37|Tires and Tubes
+1143|20020921|22251|3|Clothing|25|Vests
+837|20021013|18717|3|Clothing|18|Bib-Shorts
+619|20020901|16743|4|Accessories|27|Bike Stands
+1058|20021019|21202|4|Accessories|30|Fenders
+713|20020901|17579|4|Accessories|32|Hydration Packs
+901|20021015|19559|4|Accessories|32|Hydration Packs
+2558|20021016|21314|4|Accessories|31|Helmets
+1041|20020908|20925|4|Accessories|34|Locks
+838|20021013|18717|4|Accessories|26|Bike Racks
+620|20020901|16743|4|Accessories|36|Pumps
+1060|20020911|21221|3|Clothing|23|Socks
+714|20020901|17579|4|Accessories|35|Panniers
+1033|20021019|20812|4|Accessories|27|Bike Stands
+2658|20020910|25604|4|Accessories|31|Helmets
+839|20021013|18717|4|Accessories|27|Bike Stands
+778|20020927|18247|3|Clothing|18|Bib-Shorts
+1071|20020908|21371|3|Clothing|19|Caps
+733|20020916|17755|3|Clothing|19|Caps
+2721|20021011|13672|3|Clothing|20|Gloves
+905|20021022|19569|4|Accessories|30|Fenders
+814|20021016|18337|4|Accessories|26|Bike Racks
+1072|20020908|21371|4|Accessories|37|Tires and Tubes
+734|20020916|17755|3|Clothing|22|Shorts
+2725|20021007|27122|4|Accessories|29|Cleaners
+940|20020918|19784|4|Accessories|31|Helmets
+974|20021008|20157|3|Clothing|25|Vests
+1105|20020911|21953|4|Accessories|32|Hydration Packs
+735|20020916|17755|3|Clothing|23|Socks
+2758|20021016|21314|4|Accessories|30|Fenders
+1026|20021017|20694|3|Clothing|25|Vests
+975|20021008|20157|4|Accessories|28|Bottles and Cages
+846|20020927|18741|3|Clothing|22|Shorts
+591|20020924|16640|3|Clothing|23|Socks
+1063|20021023|21266|3|Clothing|23|Socks
+976|20021008|20157|4|Accessories|33|Lights
+847|20020927|18741|3|Clothing|24|Tights
+881|20021009|19232|3|Clothing|18|Bib-Shorts
+1064|20021023|21266|4|Accessories|36|Pumps
+1044|20020930|20977|3|Clothing|18|Bib-Shorts
+848|20020927|18741|4|Accessories|37|Tires and Tubes
+882|20021009|19232|3|Clothing|23|Socks
+1075|20021006|21384|4|Accessories|29|Cleaners
+1045|20020930|20977|4|Accessories|33|Lights
+1014|20021026|20517|4|Accessories|31|Helmets
+919|20020913|19614|4|Accessories|28|Bottles and Cages
+1087|20021003|21684|3|Clothing|22|Shorts
+1062|20020907|21254|4|Accessories|27|Bike Stands
+1027|20021021|20710|4|Accessories|33|Lights
+971|20021006|20148|4|Accessories|37|Tires and Tubes
+1088|20021003|21684|4|Accessories|35|Panniers
+1136|20020913|22199|4|Accessories|33|Lights
+1028|20021021|20710|4|Accessories|35|Panniers
+1038|20021021|20872|3|Clothing|19|Caps
+1104|20021003|21952|4|Accessories|35|Panniers
+1138|20020926|22205|4|Accessories|33|Lights
+1115|20021012|21983|4|Accessories|29|Cleaners
+1116|20021006|21984|4|Accessories|32|Hydration Packs
+1117|20021026|21999|4|Accessories|34|Locks
+1128|20020928|22151|4|Accessories|29|Cleaners
