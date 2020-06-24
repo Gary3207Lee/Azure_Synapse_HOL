@@ -1,0 +1,1 @@
+ select count(Region) from dbo.WWICampaignAnalytics;
