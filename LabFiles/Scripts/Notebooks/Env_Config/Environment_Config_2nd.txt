@@ -7,3 +7,8 @@ ruamel.yaml==0.16.10
 onnx==1.6.0
 onnxruntime==1.0.0
 nimbusml==1.7.1
+werkzeug==0.16.1 
+ruamel.yaml==0.16.9
+azureml-train-automl-runtime==1.6.0
+py-cpuinfo==5.0.0
+scipy==1.4.1
